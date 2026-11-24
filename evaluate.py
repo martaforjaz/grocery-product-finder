@@ -85,12 +85,13 @@ def main():
                for mode in ("image","ocr","fusion")}
     report = dict(catalog=len(gallery), known=len(known), unknown=len(absent), calibration=len(calibration),
                   metrics=metrics, threshold=threshold,
+                  dataset_products=len(rows), alternate_front_pairs=sum(r["alternate_front"] for r in rows),
                   accepted=sum(p["confidence"]>threshold for p in test),
                   incorrect_accepts=sum(p["confidence"]>threshold and not safe(p) for p in test),
                   unknown_accepts=sum(p["confidence"]>threshold for p in absent))
     fix = next((p for p in known if p["rank"]["image"][0]!=p["i"] and safe(p)),None)
     sample = fix or next((p for p in known if not safe(p)),known[0])
-    examples = [sample, absent[0]]
+    examples = [sample, next((p for p in absent if p["confidence"] <= threshold), absent[0])]
     output = dict(report=report, examples=examples, products=rows,
                   index=[dict(i=i,vector=vector.tolist(),tokens=sorted(doc)) for i,vector,doc in zip(gallery,vectors,vocab)],
                   weights=weights, mix=MIX)

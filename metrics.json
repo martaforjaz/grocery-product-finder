@@ -1,24 +1,26 @@
 {
-  "catalog": 12,
-  "known": 9,
-  "unknown": 2,
-  "calibration": 5,
+  "catalog": 240,
+  "known": 180,
+  "unknown": 30,
+  "calibration": 90,
   "metrics": {
     "image": {
-      "top1": 5,
-      "top3": 8
+      "top1": 37,
+      "top3": 52
     },
     "ocr": {
-      "top1": 8,
-      "top3": 9
+      "top1": 51,
+      "top3": 85
     },
     "fusion": {
-      "top1": 9,
-      "top3": 9
+      "top1": 62,
+      "top3": 96
     }
   },
-  "threshold": 0.7286207174161471,
+  "threshold": 0.9007480859756469,
+  "dataset_products": 300,
+  "alternate_front_pairs": 79,
   "accepted": 2,
-  "incorrect_accepts": 0,
+  "incorrect_accepts": 2,
   "unknown_accepts": 0
 }

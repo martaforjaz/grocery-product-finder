@@ -1,25 +1,949 @@
 [
   {
+    "i": 31,
+    "text": "nutella 750 FERRERO",
+    "rank": {
+      "image": [
+        31,
+        33,
+        291
+      ],
+      "ocr": [
+        293,
+        285,
+        292
+      ],
+      "fusion": [
+        293,
+        31,
+        291
+      ]
+    },
+    "confidence": 0.8717720925807952
+  },
+  {
+    "i": 199,
+    "text": "Essential EVERYDAY NATURALLYFLAVORED HONEY &OAT CLUSTERS ToastedMulti-GrainCereal with Honey Oat Clusters Sourceof pooo 6Vitamins &lron ACholesterol Free Food Og Trans Fat Per Serving 150 IWM5D（41",
+    "rank": {
+      "image": [
+        199,
+        200,
+        24
+      ],
+      "ocr": [
+        199,
+        201,
+        103
+      ],
+      "fusion": [
+        199,
+        200,
+        103
+      ]
+    },
+    "confidence": 0.7856068773753824
+  },
+  {
+    "i": 257,
+    "text": "Selection hazelnut chocolate pread-tartinade noisettes etchocolat 725g",
+    "rank": {
+      "image": [
+        257,
+        53,
+        15
+      ],
+      "ocr": [
+        257,
+        264,
+        261
+      ],
+      "fusion": [
+        257,
+        255,
+        264
+      ]
+    },
+    "confidence": 0.7881768105156763
+  },
+  {
+    "i": 248,
+    "text": "Noisettes（40%)-Chocolat noir(24) Veritablepateatartiner 8200",
+    "rank": {
+      "image": [
+        298,
+        296,
+        266
+      ],
+      "ocr": [
+        125,
+        248,
+        17
+      ],
+      "fusion": [
+        248,
+        260,
+        298
+      ]
+    },
+    "confidence": 0.5364193212177689
+  },
+  {
+    "i": 219,
+    "text": "Nutrition Facts Serving size 11/4cup (41g) Calories 160 TotalFat2g SautedFatOg 2% TransFatOg 0% Pousured Fat 0.5g Monounssturted Fat 0.5g Chelesterel Omg Sodium280mg 0% Total Carbohydrate 33g 12% Dietary Fiber 2g 12% Soluble Fiber 1g 9% Insoluble Fiber 1g Total Sugars 12g Inclos 12g Adde Sups Protein3g 24% VtaminDOmcg Calcum160mg 0% Iron5.4mg 10% Potasslum 100mg 30% Thiamin 2% Nacin 60% Vitamin Be 10% Folate 40mcg DFE 10% (25mog folic acid) 10% Pantothenic Acd Phesphorus 19% Magnesium zinc 2.000",
+    "rank": {
+      "image": [
+        208,
+        178,
+        148
+      ],
+      "ocr": [
+        125,
+        63,
+        147
+      ],
+      "fusion": [
+        208,
+        125,
+        178
+      ]
+    },
+    "confidence": 0.3819786608219147
+  },
+  {
+    "i": 128,
+    "text": "QUAKER INSTANT OATNEAL FlavorVariety Maple& Cunanon &Spice Appless Cisnamoa Healthy Heart 16010 10P53",
+    "rank": {
+      "image": [
+        123,
+        45,
+        234
+      ],
+      "ocr": [
+        109,
+        122,
+        124
+      ],
+      "fusion": [
+        122,
+        123,
+        111
+      ]
+    },
+    "confidence": 0.6306436317565521
+  },
+  {
+    "i": 200,
+    "text": "Nutrition Facts 10 servings per container Serving size 1packet(43g） persenviog 160 Calories LDaiy Value Total Fat2g 2% SaturatedFat Og 0% TransFat Og Polyunsaturated Fat 1g Monounsaturated Fat 1g Cholesterol Omg 0% Sodium210mg 9% TotalCarbohydrate32g 12% Dietary Fiber3g 10% Soluble Fiber 1g Total Sugars 14g Includes9g Added Sugars 18% Protein4g Cacium130mg10%",
+    "rank": {
+      "image": [
+        208,
+        178,
+        76
+      ],
+      "ocr": [
+        210,
+        65,
+        198
+      ],
+      "fusion": [
+        210,
+        65,
+        208
+      ]
+    },
+    "confidence": 0.43720469964775255
+  },
+  {
+    "i": 133,
+    "text": "Ingredients Two(2)vegetable capsulesprovide: PowderedPsyllium. .1000mg HusksFibre VegetobleCapsuleShell: E hydroxypropylmethylcellulose REEOF:Gluten,Whet，Dairy,oyYest PreservativesSwenrArtificillvr erColours.",
+    "rank": {
+      "image": [
+        248,
+        188,
+        36
+      ],
+      "ocr": [
+        183,
+        80,
+        30
+      ],
+      "fusion": [
+        186,
+        183,
+        248
+      ]
+    },
+    "confidence": 0.46966972531858875
+  },
+  {
+    "i": 255,
+    "text": "BERRYHILL HAZELNUT Deread ①D asand UTZ Certified cocoa NETWT130",
+    "rank": {
+      "image": [
+        255,
+        15,
+        283
+      ],
+      "ocr": [
+        255,
+        252,
+        249
+      ],
+      "fusion": [
+        255,
+        268,
+        252
+      ]
+    },
+    "confidence": 0.7155382593281042
+  },
+  {
+    "i": 90,
+    "text": "12g13g8g Original Cereal ashi GOLEAN",
+    "rank": {
+      "image": [
+        223,
+        158,
+        116
+      ],
+      "ocr": [
+        179,
+        88,
+        246
+      ],
+      "fusion": [
+        88,
+        179,
+        90
+      ]
+    },
+    "confidence": 0.5158661699688177
+  },
+  {
+    "i": 144,
+    "text": "INSEASON YEAI:ROUND -Organic TRIPLE BERRY GRANOLA Miled Gluten iree",
+    "rank": {
+      "image": [
+        144,
+        187,
+        135
+      ],
+      "ocr": [
+        144,
+        12,
+        183
+      ],
+      "fusion": [
+        144,
+        233,
+        183
+      ]
+    },
+    "confidence": 0.6445917637983022
+  },
+  {
+    "i": 60,
+    "text": "lucky Charms",
+    "rank": {
+      "image": [
+        60,
+        201,
+        293
+      ],
+      "ocr": [
+        58,
+        59,
+        67
+      ],
+      "fusion": [
+        58,
+        60,
+        59
+      ]
+    },
+    "confidence": 0.7753035545349121
+  },
+  {
+    "i": 236,
+    "text": "POURM POUI CHLORHYDRATEDE FER(ENROBE RELATIONS AVEC LES CONSOMMATEURS CARBONATEDE ACIDEFOLIQUE AVOINEDUSOYAETDESSULFITES. QUESTIONSOU COMMENTAIRES? VEUILLEZAVOIRLABOITEENMAIN ET APPELER1-800-267-6287ENSEMAINE 6% 10% %8 8% 83 LOCONSD'AVOINEAGRAINSENTIERS SUCRE,AROMES DESINGREDIENTS DE VQ=valeurquotidienne INGREDIENTS PEUT CONTENIR DU BLE. Pantothenate Vitamine Be Niacine Folate UEIU",
+    "rank": {
+      "image": [
+        148,
+        185,
+        76
+      ],
+      "ocr": [
+        26,
+        21,
+        205
+      ],
+      "fusion": [
+        148,
+        250,
+        185
+      ]
+    },
+    "confidence": 0.4004308879375458
+  },
+  {
+    "i": 113,
+    "text": "CAPNCRUNCHS CRUNCH BERRIES SWSETENED CORNS OMTCIREAL MECAPRS NETWT80Z（1330D·530",
+    "rank": {
+      "image": [
+        114,
+        119,
+        118
+      ],
+      "ocr": [
+        119,
+        113,
+        151
+      ],
+      "fusion": [
+        119,
+        113,
+        118
+      ]
+    },
+    "confidence": 0.7471129657842668
+  },
+  {
+    "i": 260,
+    "text": "awsa ecnc DEPUIS SINCE I913 danveurde Chocolat noir Dark chocolate Aavour TARTINADE/SPREAD 600g",
+    "rank": {
+      "image": [
+        260,
+        35,
+        188
+      ],
+      "ocr": [
+        260,
+        264,
+        257
+      ],
+      "fusion": [
+        260,
+        264,
+        257
+      ]
+    },
+    "confidence": 0.8258194361041797
+  },
+  {
+    "i": 268,
+    "text": "Orgnichzzelnut spread withcooa. gd n organic.Coh  TN TRAESOFERUTS.Do Tartiadebiologiqueasx oisetlesaeccacoo. DESTRAESDe Impoedby./Inportpar: anKOeeldL woobndgeOotaroLAL9C7 Emma Bestbeoe./Melleurt 20 LE:",
+    "rank": {
+      "image": [
+        208,
+        187,
+        144
+      ],
+      "ocr": [
+        255,
+        267,
+        269
+      ],
+      "fusion": [
+        267,
+        233,
+        266
+      ]
+    },
+    "confidence": 0.5042946144686036
+  },
+  {
+    "i": 294,
+    "text": "22780 Fr15 5A6kca 114 554 60 05 -30G200 017620423055 SenviceCo 1500610 9.50g 163x75",
+    "rank": {
+      "image": [
+        189,
+        294,
+        279
+      ],
+      "ocr": [
+        238,
+        31,
+        199
+      ],
+      "fusion": [
+        189,
+        294,
+        279
+      ]
+    },
+    "confidence": 0.43800321221351624
+  },
+  {
+    "i": 12,
+    "text": "BjORG granola CHOCOLAT Riche onfibres",
+    "rank": {
+      "image": [
+        16,
+        241,
+        12
+      ],
+      "ocr": [
+        12,
+        16,
+        264
+      ],
+      "fusion": [
+        12,
+        16,
+        241
+      ]
+    },
+    "confidence": 0.8051683864098388
+  },
+  {
+    "i": 295,
+    "text": "nutella TEIRXRO",
+    "rank": {
+      "image": [
+        292,
+        287,
+        41
+      ],
+      "ocr": [
+        293,
+        285,
+        292
+      ],
+      "fusion": [
+        293,
+        292,
+        295
+      ]
+    },
+    "confidence": 0.6426438898077569
+  },
+  {
+    "i": 54,
+    "text": "NATUREVALLEY CHEWY Oatmeal Raisin ATURAWYFLAVORED",
+    "rank": {
+      "image": [
+        54,
+        231,
+        223
+      ],
+      "ocr": [
+        54,
+        108,
+        125
+      ],
+      "fusion": [
+        54,
+        108,
+        192
+      ]
+    },
+    "confidence": 0.8050607712556406
+  },
+  {
+    "i": 230,
+    "text": "ItOMeal Honey Nut Scooters loveitoritSFREE! )1.1kg CEREAI",
+    "rank": {
+      "image": [
+        245,
+        69,
+        230
+      ],
+      "ocr": [
+        219,
+        230,
+        145
+      ],
+      "fusion": [
+        219,
+        230,
+        80
+      ]
+    },
+    "confidence": 0.5927479784480575
+  },
+  {
+    "i": 121,
+    "text": "34g SPRING WIOLEGRR EDITION 11g QUAKER FERSIYN -EST1877- INSTANT OATMEAL DINOSAUR EGGS BROWNSUGAR FLAVORWITEOTHERNATURALFIANORS SOURCE OF COOD VITAMIN D, CALCIUM &IRON 8-1O6ON50OPAEXETSNETWT14",
+    "rank": {
+      "image": [
+        179,
+        103,
+        127
+      ],
+      "ocr": [
+        125,
+        121,
+        127
+      ],
+      "fusion": [
+        125,
+        127,
+        121
+      ]
+    },
+    "confidence": 0.6437565921607848
+  },
+  {
+    "i": 149,
+    "text": "Simplelnside Nellogg's Crispix CEREAL ORIGINAL RICE CORN",
+    "rank": {
+      "image": [
+        125,
+        121,
+        146
+      ],
+      "ocr": [
+        149,
+        170,
+        179
+      ],
+      "fusion": [
+        149,
+        179,
+        147
+      ]
+    },
+    "confidence": 0.8413760462252908
+  },
+  {
+    "i": 94,
+    "text": "Kashi GO wander 9g Protein ToastedBerryCrisp 179 8g Whole Grani CEREALNEWT",
+    "rank": {
+      "image": [
+        90,
+        97,
+        123
+      ],
+      "ocr": [
+        88,
+        97,
+        90
+      ],
+      "fusion": [
+        88,
+        90,
+        97
+      ]
+    },
+    "confidence": 0.6287408874246951
+  },
+  {
+    "i": 267,
+    "text": "Ingredenanehaastel capecabutlnill extractorganicContainhazelnuMAYCONTAIN TRACESOFOTHERNUTDonotrefrierate. Certified organicbyBioagricert st Operatorcode：IBIOA99 info@bioagricert.orbiagr Vegan controlled by:",
+    "rank": {
+      "image": [
+        266,
+        248,
+        32
+      ],
+      "ocr": [
+        238,
+        31,
+        199
+      ],
+      "fusion": [
+        266,
+        248,
+        32
+      ]
+    },
+    "confidence": 0.4534972310066223
+  },
+  {
+    "i": 207,
+    "text": "Nutrition Facts 10 servingsper container Serving size 1Packet(43g) Mi Amountper serving Calories 160 %DailyValue* TotalFat2g 2% SaturatedFat Og 0% TransFatOg PolyunsaturatedFat 0.5g MonounsaturatedFat 0.5g CholesterolOmg 0% PR Sodium250mg 11% WI Total Carbohydrate32g 12% 1. DietaryFiber3g 11% 2. 3. Soluble Fiber 1g M Total Sugars13g 1. 2. Includes13gAddedSugars 25% 3. Protein4g VitaminDOmcg 0% si to",
+    "rank": {
+      "image": [
+        208,
+        76,
+        178
+      ],
+      "ocr": [
+        158,
+        63,
+        172
+      ],
+      "fusion": [
+        208,
+        111,
+        144
+      ]
+    },
+    "confidence": 0.3951939642429352
+  },
+  {
+    "i": 221,
+    "text": "MaltOMeal farina FORTIFIED CREAMY HOTWHEAT CEREAL EXCELLENT SOURCEOF COOKSIN IRON& 21/2 FOLATE MINUTES ORIGINAL TWT280Z PER3TBSP SERVING(ORY) L8120Z793g 130",
+    "rank": {
+      "image": [
+        52,
+        213,
+        109
+      ],
+      "ocr": [
+        179,
+        88,
+        221
+      ],
+      "fusion": [
+        179,
+        88,
+        221
+      ]
+    },
+    "confidence": 0.5070791467503919
+  },
+  {
+    "i": 119,
+    "text": "CRUN BERRI",
+    "rank": {
+      "image": [
+        166,
+        160,
+        117
+      ],
+      "ocr": [
+        238,
+        31,
+        199
+      ],
+      "fusion": [
+        166,
+        160,
+        117
+      ]
+    },
+    "confidence": 0.42826321721076965
+  },
+  {
+    "i": 150,
+    "text": "FIBER & WHOLE Hellogg's Cracklin' OatBran cgSoctOn-BaOat Ce CEREAL NETWT1702（1LB1OZ）（482g）",
+    "rank": {
+      "image": [
+        150,
+        46,
+        62
+      ],
+      "ocr": [
+        150,
+        62,
+        216
+      ],
+      "fusion": [
+        150,
+        62,
+        78
+      ]
+    },
+    "confidence": 0.6320848419495233
+  },
+  {
     "i": 15,
     "text": "",
     "rank": {
       "image": [
         15,
-        14,
-        2
+        258,
+        293
       ],
       "ocr": [
-        12,
-        15,
-        8
+        238,
+        31,
+        199
       ],
       "fusion": [
         15,
-        14,
-        2
+        258,
+        293
       ]
     },
     "confidence": 0.4211316704750061
+  },
+  {
+    "i": 156,
+    "text": "Simple Inside FAMILY SIZE SIZE llaugs Hellags FROOT OPS LOOPS HATYRAL",
+    "rank": {
+      "image": [
+        160,
+        166,
+        156
+      ],
+      "ocr": [
+        173,
+        160,
+        166
+      ],
+      "fusion": [
+        160,
+        173,
+        166
+      ]
+    },
+    "confidence": 0.7329999038155685
+  },
+  {
+    "i": 157,
+    "text": "",
+    "rank": {
+      "image": [
+        169,
+        159,
+        113
+      ],
+      "ocr": [
+        238,
+        31,
+        199
+      ],
+      "fusion": [
+        169,
+        159,
+        113
+      ]
+    },
+    "confidence": 0.4589855968952179
+  },
+  {
+    "i": 239,
+    "text": "Nutrition Facts Per 1packet(36g) Calories140 NDV Fat2.5g Saturated 0.3g 4 .TransOg 2% Polyunsatured1g Omega-60.1g Omega-30.5g Monounsaturated 1.g Cholesterol Omg Nuna Sodium160mg Carbohydrate 27g Fore4g SolubleFibre 1g 16 TnsolubleFbre3g Sugars9g Protein3g VtaminA VitaminC 0 0% 35 6% 60% 8% Vitamin B 10% Folate 10 Partohenale APG-AO. INGRIDIENTS",
+    "rank": {
+      "image": [
+        208,
+        178,
+        76
+      ],
+      "ocr": [
+        160,
+        239,
+        225
+      ],
+      "fusion": [
+        160,
+        208,
+        239
+      ]
+    },
+    "confidence": 0.4892753445585377
+  },
+  {
+    "i": 100,
+    "text": "Nutrition Facts About7servingspercontainer Serving size 1-%cup（43g） lthY 170 Calories 210 %DV\" %DV\" Total Fat 1.5g 2% 2% Saturated Fat Og 0% 0% Trans Fat Og Cholesterol Omg 0% 1% Sodlum 180mg 8% 10% Total Carbohydrate 37g 13% 16% Dietary Fber 2g 6% 6% Total Sugars 11g Ind.Added Sugars 11g 21% 21% Protein 20 Vitamin D Omcg 0% 15% 6% Caicium 40mg 4% ron 0.4mg 2% 2% Potassum Omg 0% 6% Se 2.000 8 Ingredlents:Whole GrainPurple Corn Flour',Yellow Con Meal Cane Sugar',Whole Graln Yellow CornMeal.Sunflower Oir'.Sea Salt,Natural Flevor' Calclum Carbonate,Vanilta Extract'.Vitamin E (mixed tocopborols)AddedtoPreserve Freshness. \"Organle",
+    "rank": {
+      "image": [
+        208,
+        178,
+        148
+      ],
+      "ocr": [
+        170,
+        119,
+        61
+      ],
+      "fusion": [
+        189,
+        208,
+        178
+      ]
+    },
+    "confidence": 0.43013072684270964
+  },
+  {
+    "i": 78,
+    "text": "FAMILYSIZE 20912 NATURALLYFLAVORED Honey Nut Cheerios WHOLE gudient GRAIN OATS CHOLESTEROL GlutenFree 224 etdeG Celh e Ra",
+    "rank": {
+      "image": [
+        78,
+        27,
+        103
+      ],
+      "ocr": [
+        145,
+        244,
+        193
+      ],
+      "fusion": [
+        78,
+        145,
+        193
+      ]
+    },
+    "confidence": 0.6698633109747398
+  },
+  {
+    "i": 66,
+    "text": "Nutrition Facts mvings Per Contaaner atout 10 Caleries 180 220 Calories frorm Faff 2525 Tetal Fat 3g DayVoe\" Saturated Fat 0.5g 4% %C 4% Trans Fat Og 3% Polyunsaturated Fat Tg Cholesterel Omg Monoursanurated Fat 1g Sodium220mg 0%1% Potasslum 17Omg 9%12% Total 5% 11% Carbohydrate40g Dietary Fiber 6g 24%24% 13%15% Other Carbohydrate 20g Sugars 14g Proteln4g Vitamin A Veamin C 09 %60 4% Calcium 2% 15% 0% lon Vtamin D 25% 0% 25% Thiamin 25% 30% 10% Ribofiavin Niacin 25% 25%25% 35% Vitamin B. Folic Acid 25%25% Vtann B. 25% 25% 25% Phosphons 10% 35% Magnesium 8% 20% Zine 25% 30% 10% 00 +7000 c88086 F,000 2,500 7.400m Chetars FEer 3%0",
+    "rank": {
+      "image": [
+        208,
+        178,
+        76
+      ],
+      "ocr": [
+        125,
+        158,
+        63
+      ],
+      "fusion": [
+        208,
+        125,
+        178
+      ]
+    },
+    "confidence": 0.3781052827835083
+  },
+  {
+    "i": 188,
+    "text": "Bobs Red Mall 240 OATMEAL GLUTEN GRUAU D'AVOINE SANS FREE GLUTEN Blueberry Hazelnut bleuetsetnoisettes with Flax and Chia avec lin etchia PADVE 71g",
+    "rank": {
+      "image": [
+        188,
+        186,
+        248
+      ],
+      "ocr": [
+        183,
+        186,
+        188
+      ],
+      "fusion": [
+        188,
+        186,
+        183
+      ]
+    },
+    "confidence": 0.7323139117309051
+  },
+  {
+    "i": 298,
+    "text": "(150)",
+    "rank": {
+      "image": [
+        86,
+        237,
+        299
+      ],
+      "ocr": [
+        250,
+        238,
+        31
+      ],
+      "fusion": [
+        86,
+        250,
+        237
+      ]
+    },
+    "confidence": 0.4185904860496521
+  },
+  {
+    "i": 115,
+    "text": "CRUNCH Nutrition Facts N NCH H",
+    "rank": {
+      "image": [
+        208,
+        123,
+        130
+      ],
+      "ocr": [
+        119,
+        245,
+        225
+      ],
+      "fusion": [
+        119,
+        208,
+        123
+      ]
+    },
+    "confidence": 0.4510364181908969
+  },
+  {
+    "i": 117,
+    "text": "10gF Protei withMilk QUAKER Car1877 OATMEAL SQUARES BrownSugar withahintof crunchy oat cereal 46 GRAINS",
+    "rank": {
+      "image": [
+        0,
+        128,
+        63
+      ],
+      "ocr": [
+        185,
+        117,
+        235
+      ],
+      "fusion": [
+        117,
+        235,
+        107
+      ]
+    },
+    "confidence": 0.6106893091117019
+  },
+  {
+    "i": 250,
+    "text": "nutella YERRERO mini cups NOU615 45E350U Perfectlyportable! f Like us on Facebook at Nutella USA Quo？Co 1NUTELLA DONOTREFRIGERATE OR MICROWAVE www.NutellaUSA.com",
+    "rank": {
+      "image": [
+        207,
+        237,
+        213
+      ],
+      "ocr": [
+        293,
+        250,
+        285
+      ],
+      "fusion": [
+        250,
+        293,
+        295
+      ]
+    },
+    "confidence": 0.6046660946698192
+  },
+  {
+    "i": 81,
+    "text": "FAMILYSIZE Rice Chex GlutenFree NONO PER1CUPSR 1B202（80）（510",
+    "rank": {
+      "image": [
+        81,
+        68,
+        80
+      ],
+      "ocr": [
+        81,
+        65,
+        158
+      ],
+      "fusion": [
+        81,
+        68,
+        80
+      ]
+    },
+    "confidence": 0.684666495781099
+  },
+  {
+    "i": 285,
+    "text": "nutella nutella TERILERO SANDWICH TREMPEE PLA- TOASTEE =LA=",
+    "rank": {
+      "image": [
+        279,
+        283,
+        277
+      ],
+      "ocr": [
+        293,
+        285,
+        292
+      ],
+      "fusion": [
+        293,
+        294,
+        299
+      ]
+    },
+    "confidence": 0.5869391471376977
   },
   {
     "i": 8,
@@ -27,131 +951,1385 @@
     "rank": {
       "image": [
         8,
-        10,
-        11
+        164,
+        62
       ],
       "ocr": [
         8,
-        12,
-        15
+        28,
+        238
       ],
       "fusion": [
         8,
-        10,
-        11
+        28,
+        164
       ]
     },
-    "confidence": 0.5545329332351685
+    "confidence": 0.5652546831848138
   },
   {
-    "i": 10,
-    "text": "NATURE VALLEY Protein PEANUT&CHOCOLATE 10G CACAHUETES&CHOCOLAT PROTEINES DE 4BARS 4x0",
+    "i": 242,
+    "text": "FLOCONSD'AVOINEBLEENTIERROULERAISINSSECS SECHEONSUCREEHUILEDECOCOAMANDESMIEL CONTIENT DES INGREDIENTS DELAVOINE,DU SUBSTANCESLAITIERESMODIFIEES,NOIXDECOCO ENROBESD'HUILEDETOURNESOL,CASSONADE, INGREDIENTS BLE,DU LAIT ETDEL'AMANDE. AROMENATUREL.",
     "rank": {
       "image": [
-        10,
+        148,
+        208,
+        178
+      ],
+      "ocr": [
+        236,
+        237,
+        21
+      ],
+      "fusion": [
+        148,
+        208,
+        178
+      ]
+    },
+    "confidence": 0.3482597768306732
+  },
+  {
+    "i": 130,
+    "text": "Raisin Bra INAS RT ginal",
+    "rank": {
+      "image": [
+        86,
+        130,
+        208
+      ],
+      "ocr": [
+        229,
+        54,
+        66
+      ],
+      "fusion": [
+        86,
+        130,
+        208
+      ]
+    },
+    "confidence": 0.4181755483150482
+  },
+  {
+    "i": 127,
+    "text": "QUAKER ApplesoCinnamon Healthy HoETt",
+    "rank": {
+      "image": [
+        127,
+        129,
+        108
+      ],
+      "ocr": [
+        185,
+        235,
+        116
+      ],
+      "fusion": [
+        127,
+        238,
+        129
+      ]
+    },
+    "confidence": 0.5425429585103043
+  },
+  {
+    "i": 282,
+    "text": "colat",
+    "rank": {
+      "image": [
+        282,
+        258,
+        36
+      ],
+      "ocr": [
+        238,
+        31,
+        199
+      ],
+      "fusion": [
+        282,
+        258,
+        36
+      ]
+    },
+    "confidence": 0.5494320392608643
+  },
+  {
+    "i": 53,
+    "text": "1500007001",
+    "rank": {
+      "image": [
+        261,
+        185,
+        148
+      ],
+      "ocr": [
+        238,
+        31,
+        199
+      ],
+      "fusion": [
+        261,
+        185,
+        148
+      ]
+    },
+    "confidence": 0.3849766254425049
+  },
+  {
+    "i": 274,
+    "text": "INGREDIENTS:SuCre,huile vegetale （toumesol.toumesolmodife,coprahmodife tocopherolsmixtes,lecithine detournesol) poudre decacao,poudredelactoserum（lait), lecthinedesojaextraitdevanile.Allergene contient:lait,soja.Peut contenir: Nutrition Facts CONSERVERATEMPERATUREAMBIANTE,NE noisettes. Valeurnutritive PASREFRIGERER. Per1tbsp （19g)/pour1c.asoupe（19g) INGREDIENTS:Sugar,vegetable oil Amount %valeurquotidienne %DalyValue (sunflower,modied sunflower,modied Teneur coconut,mixed tocopherols,sunflower lecithin）cocoapowder,wheypowder（mik） Calories/Calories110 soya lecithin,vanilla extract.Allergen Fat/Lipides7g 11% Contains:milk,soya.May contain:hazelnuts. Satuated/satures1,5g +Trans/trans0g 8% Storeatroom temperaturedonotrefrigerate. Fabrique au Canada apartir d’ingredients Cholesterol/Cholesterol0mg canadiensetimportes/Madein canada from Sodium/Sodium15mg 1% domesticandimported ingredients Carbohydates/Glucides11g 4% DISTRIBUTEDBY/DISTRIBUEPAR: Fibre/Fbres1g 4% CHOCM0D USA-Fort Lee,NJ07024- info@chocmodusa.com Sugars/Sucres9g ITM./ART.#1074027 Protein/Protines1g VitaminA/VitamineA 0% Witamin C/WitamineC 0% Caloum/Galium 2% Iron/Fer 6% 37246003256",
+    "rank": {
+      "image": [
+        148,
+        76,
+        208
+      ],
+      "ocr": [
+        92,
+        63,
+        172
+      ],
+      "fusion": [
+        92,
+        148,
+        94
+      ]
+    },
+    "confidence": 0.416909107176386
+  },
+  {
+    "i": 166,
+    "text": "Kellog's T FROPS Toucah SAM NATURAL FRUITFLAVORS",
+    "rank": {
+      "image": [
+        156,
+        119,
+        115
+      ],
+      "ocr": [
+        27,
+        155,
+        211
+      ],
+      "fusion": [
+        155,
+        156,
+        27
+      ]
+    },
+    "confidence": 0.5095964070321614
+  },
+  {
+    "i": 125,
+    "text": "24Packets EPACK FUSED BEST BEFORE QUAKER INSTANTOATMEAL Original",
+    "rank": {
+      "image": [
+        185,
+        299,
+        189
+      ],
+      "ocr": [
+        111,
+        107,
+        245
+      ],
+      "fusion": [
+        185,
+        215,
+        116
+      ]
+    },
+    "confidence": 0.4694017720277815
+  },
+  {
+    "i": 107,
+    "text": "Mono Cholest Sodium Potassi Total Ca Dietary! Solub Sugarso Protein4 VtaminA VitaminC Caioum iron INSTANT OATMEAL Ingredients:Who g.caramelcolor cah.cacumcto QUAKER iamin Apamtate 122-44 BIA:",
+    "rank": {
+      "image": [
+        130,
+        86,
+        51
+      ],
+      "ocr": [
+        125,
+        127,
+        107
+      ],
+      "fusion": [
+        125,
+        122,
+        192
+      ]
+    },
+    "confidence": 0.5818082331481811
+  },
+  {
+    "i": 14,
+    "text": "200 nutelld",
+    "rank": {
+      "image": [
+        287,
+        291,
+        295
+      ],
+      "ocr": [
+        258,
+        34,
+        238
+      ],
+      "fusion": [
+        258,
+        287,
+        34
+      ]
+    },
+    "confidence": 0.6435927523859694
+  },
+  {
+    "i": 21,
+    "text": "QUAKER -EST1877- MUESLI CROUSTILLANT NOIXDEPECAN& NOIXDU BRESIL 500g",
+    "rank": {
+      "image": [
+        21,
+        234,
+        239
+      ],
+      "ocr": [
+        21,
+        29,
+        25
+      ],
+      "fusion": [
+        21,
+        29,
+        25
+      ]
+    },
+    "confidence": 0.6635719714160114
+  },
+  {
+    "i": 204,
+    "text": "Nutrition Facts NGREDENTS:NOLE CRANROLLIDOATSSOOAR NATURALFUAVORS.SALT,GUARGOMCARAMEL ed: COLORSUCRALOSL Senings Pw Cotaner32 WITNSANOMNEULSCLCMCAOONTE RISOFUAVNTAMNEMONONTRTEFOLCO MNARALMTXLPRCOONNOOOLOO Caleries Perleving 120 VTAMNO Calones fomFat 20 ONEOFDSVITAMNS 3% OSTSTUPPIBUSPDLWOKITL,URUPCS Tetal Fat2g Satrand FatOg 0% FUX ACOMSSACO SUGARCONTENT HASSEEN LOWERIDFROM TransFaOg PT04gPER SURVING Polunsatunted Far05g Cholesterol Omg Monounsaturated Fat 0.5g 0% Directions for Cooking Sodlum260mg 11% Comeetional Potasslum 105mg 3% Tetal Carbohydrate 24g 8% ipty pacet rto bo DetaryFiber3g 12% Accpbogw Inteborctrg raedled Sugas4g Souble Fber 1g Emptybo paoetrto o For2 Pcke efInt Oamal Protein4g Innteteor otrs VamnC 0% Microwave Cacun 10% lon 20% Duetodfeeosnmoow o 20% rcokng tme mty viry VtaminD 20% Emptypacet omorowe-sale bow Rbofavin 20% A23 Naein 20% MHOH1-2m Vtamin Be 20% fImrebeoretrg Folae 20% Fee 2 Packet eflt Ome Phosghorus 15%6  Empty both packets rto microwgve-efe Magresum 15% Ad13osweormc PtDy V   d 5  RRO Caoren 2.00 LiTan 2.500 Forthoer oeeen gd F SentedFe LestTan 20g 2g omeluemoelqdTocoo yo LePai 300r xong q admkorince cbe Less than 330rg 1500ng Use apot holder to hande het boworpo 3004 Yd k nadut for hep.needed DeteyFbe",
+    "rank": {
+      "image": [
+        208,
+        76,
+        178
+      ],
+      "ocr": [
+        290,
+        63,
+        172
+      ],
+      "fusion": [
+        208,
+        290,
+        76
+      ]
+    },
+    "confidence": 0.4010618329048157
+  },
+  {
+    "i": 17,
+    "text": "QUAKER Cruesli CHOCOLATNOIR 450g",
+    "rank": {
+      "image": [
+        17,
         0,
-        5
+        242
       ],
       "ocr": [
-        10,
-        12,
-        0
+        0,
+        13,
+        185
       ],
       "fusion": [
-        10,
-        12,
-        0
+        17,
+        0,
+        13
       ]
     },
-    "confidence": 0.7681560175588535
+    "confidence": 0.6301999699886753
   },
   {
-    "i": 5,
-    "text": "ESTENGLAND 1855 Muesli SPECIAL SANS CONSERVUIER SIKREAMON 30 CCICRANT % FRUITS &NOIX NUTRI-SCORE 750g:",
+    "i": 22,
+    "text": "Nestle CEREALESCOMPLETES YOLEORENGRANEN CHOCAPIC etCHOCOLADE Simpey GOOD Londerhleutatolfen Sanscolotants metnatumtliheakoma Aoecatomesnatukels",
     "rank": {
       "image": [
-        9,
-        5,
-        0
+        7,
+        58,
+        118
       ],
       "ocr": [
-        5,
-        9,
-        3
+        4,
+        22,
+        7
       ],
       "fusion": [
-        5,
-        9,
-        3
+        4,
+        22,
+        7
       ]
     },
-    "confidence": 0.5855572476091196
+    "confidence": 0.7265243154643234
+  },
+  {
+    "i": 247,
+    "text": "Alpen MiesiDeva ORIGINAL SOURCEELEVEE OFFIBRE DEFIBRES LOWSODIUM FABLETENEUR INSODIUM 5OFPROTEIN SDEPROTENES FUSERVTNG FAPORMON 650g",
+    "rank": {
+      "image": [
+        108,
+        78,
+        179
+      ],
+      "ocr": [
+        246,
+        247,
+        125
+      ],
+      "fusion": [
+        246,
+        247,
+        179
+      ]
+    },
+    "confidence": 0.607016061028042
   },
   {
     "i": 11,
     "text": "Kelloy CORN FLAKES 500g",
     "rank": {
       "image": [
+        127,
         9,
-        11,
-        4
+        27
       ],
       "ocr": [
-        11,
-        12,
-        15
+        170,
+        182,
+        210
       ],
       "fusion": [
-        11,
-        9,
-        4
+        170,
+        147,
+        182
       ]
     },
-    "confidence": 0.5633061735516913
+    "confidence": 0.6754711717102895
+  },
+  {
+    "i": 216,
+    "text": "ETA VCOMALCONRMIDOR LNESNCOO Omma ERTSPERLEILS SEN MOMR",
+    "rank": {
+      "image": [
+        178,
+        208,
+        244
+      ],
+      "ocr": [
+        238,
+        31,
+        199
+      ],
+      "fusion": [
+        178,
+        208,
+        244
+      ]
+    },
+    "confidence": 0.4418432116508484
+  },
+  {
+    "i": 124,
+    "text": "QUAKER INSTANT OATMEAL CinnamonSpice Healthy Heart 10.1 123' 2017/12/1119:39:19",
+    "rank": {
+      "image": [
+        123,
+        239,
+        234
+      ],
+      "ocr": [
+        111,
+        125,
+        127
+      ],
+      "fusion": [
+        125,
+        111,
+        129
+      ]
+    },
+    "confidence": 0.6329118548694488
+  },
+  {
+    "i": 67,
+    "text": "Lucky HARSHULOO Charms 5 NEW DIAMOND BRING THEIR MAGICTO LIFE CHARMS! b SETWT11.S0226",
+    "rank": {
+      "image": [
+        115,
+        59,
+        67
+      ],
+      "ocr": [
+        58,
+        59,
+        67
+      ],
+      "fusion": [
+        58,
+        59,
+        67
+      ]
+    },
+    "confidence": 0.9045381367206573
+  },
+  {
+    "i": 270,
+    "text": "nutella TERRERO #Desayunafutbol 1% CREMADEAVELLANASCONCACAO CONENETO 650g",
+    "rank": {
+      "image": [
+        275,
+        34,
+        279
+      ],
+      "ocr": [
+        293,
+        285,
+        292
+      ],
+      "fusion": [
+        293,
+        31,
+        299
+      ]
+    },
+    "confidence": 0.6286701768866143
+  },
+  {
+    "i": 32,
+    "text": "Bonne Maman: pateatartiner",
+    "rank": {
+      "image": [
+        274,
+        34,
+        32
+      ],
+      "ocr": [
+        32,
+        238,
+        31
+      ],
+      "fusion": [
+        32,
+        274,
+        34
+      ]
+    },
+    "confidence": 0.5950409707648456
+  },
+  {
+    "i": 164,
+    "text": "Calores/Caorn ToFat/Ga To Less an/Ms65g 2.000 2.500 Saunted Fat/Gasa Siuradi Less an/Msd20g 80g Cholestol/Colestl Less than/Mnos d 300mg 59 Sodum/Sodo Less thun/Menos de 2.400mg 300mg Petassium/Petasio Iel Cayr/Cats Toles 3.500mg3.500mg DeayFe/FonDeica 300g 375g Proten/Proteinas 505 ngredients:Whole grain wheat,sugar.contains2%or essfrwiceyunHTfofresss Vitaminsand Minerals:Reduced iron,niacinamide vitamin Be（pyridoxinehydrochloride）.vitamin B riboflavin）,vitamin B（thamin hydrochlonde),zinc oxidefoliccidimn2 CONTAINSWHEATINGREDIENTS. Ingredientes:Granosdetrigo entero,azucarcontiene2% menosdejarabe dearozintegralgelatina,BHTpara mantenerla frescura Vitamimas yMinerales:Hierroreducido,niacinamida itamina Bs（clorhidrato depinidoxina）,vitamina B ribolavina）,vitamina B(clorhidrato detiamna）,do deinc,cido folico,vtamina B12 CONTIENEINGREDIENTES DETRIGO Distribuido por Kellogg Sales Co. Distributed by Kellogg Sales Co. TM,2017KelloggNA Co Battle Creek,M149016USA QuestionsorComments? wsrrkelloggs.com",
+    "rank": {
+      "image": [
+        208,
+        178,
+        76
+      ],
+      "ocr": [
+        156,
+        167,
+        170
+      ],
+      "fusion": [
+        178,
+        244,
+        189
+      ]
+    },
+    "confidence": 0.4763714105373587
+  },
+  {
+    "i": 205,
+    "text": "Greenwise' ORGANICCEREAL CINNAMON SQUARES Sure,Cinnmon andcane Suigstea/th shon here.Burtlet'sgivea hinto ofsupportingcastombers grainheatandorganicholegrain bro rice.Thnksformkingthis.Cerea/holly delicious,youtwo.Encore!",
+    "rank": {
+      "image": [
+        205,
+        198,
+        86
+      ],
+      "ocr": [
+        205,
+        185,
+        158
+      ],
+      "fusion": [
+        205,
+        149,
+        233
+      ]
+    },
+    "confidence": 0.6993519137086093
+  },
+  {
+    "i": 183,
+    "text": "EW QUAKER EST! OATS ccc- 1871 OATS lesterol",
+    "rank": {
+      "image": [
+        48,
+        234,
+        215
+      ],
+      "ocr": [
+        183,
+        234,
+        194
+      ],
+      "fusion": [
+        234,
+        183,
+        48
+      ]
+    },
+    "confidence": 0.5780286132594789
+  },
+  {
+    "i": 173,
+    "text": "Ralaggs FROOT LOOPS",
+    "rank": {
+      "image": [
+        258,
+        140,
+        283
+      ],
+      "ocr": [
+        173,
+        160,
+        166
+      ],
+      "fusion": [
+        173,
+        160,
+        166
+      ]
+    },
+    "confidence": 0.6539616673729675
+  },
+  {
+    "i": 169,
+    "text": "WININSTANTLY Kelloyg's FROSTED FLAKES OFCORN GR-R-REAT! EREAL EEWT26.8C1L10",
+    "rank": {
+      "image": [
+        149,
+        109,
+        159
+      ],
+      "ocr": [
+        169,
+        159,
+        157
+      ],
+      "fusion": [
+        169,
+        159,
+        157
+      ]
+    },
+    "confidence": 0.750727804974687
+  },
+  {
+    "i": 89,
+    "text": "Kashi OrganicCinnamon Harvest Whole Wheat Biscuits Baked with Sweet Cinnamon Bg 47g Fiber Whole Graims",
+    "rank": {
+      "image": [
+        85,
+        92,
+        89
+      ],
+      "ocr": [
+        89,
+        85,
+        92
+      ],
+      "fusion": [
+        89,
+        85,
+        92
+      ]
+    },
+    "confidence": 0.7189076940756853
+  },
+  {
+    "i": 234,
+    "text": "LIGEW 170% ENEK QUAKER. -DEPUIS1877- GRUAU UNE MINUTE CUIT ENIMINUTE* contribuent areduine Les fibres davoine la cholestdrol 900",
+    "rank": {
+      "image": [
+        234,
+        7,
+        49
+      ],
+      "ocr": [
+        234,
+        49,
+        236
+      ],
+      "fusion": [
+        234,
+        49,
+        236
+      ]
+    },
+    "confidence": 0.6555627861578679
+  },
+  {
+    "i": 283,
+    "text": "nutelk",
+    "rank": {
+      "image": [
+        296,
+        298,
+        299
+      ],
+      "ocr": [
+        238,
+        31,
+        199
+      ],
+      "fusion": [
+        296,
+        298,
+        299
+      ]
+    },
+    "confidence": 0.412849098443985
+  },
+  {
+    "i": 277,
+    "text": "Proteins Salt Proteines Sel 2,9g<0,1g %=%DailyValues ValeurnutritivePorion2Tbsp(38g）Portions105:Calorles Declaration nutritionnellepour100g ines1g. %=%ValeurgL FatCarbohydrates Diatery fibersP Fibres 1,6g VitA0%,VitC0%,Calcium 1%,Iron6%. 212,Calorieslip.115,Lipides13g（19% Fer6% Glucides 609 VitC0%,Calclum UOI Lipides 33,7g DN Energy Energie 557kcal 2331kJ VitA0%,1",
+    "rank": {
+      "image": [
+        148,
+        76,
+        208
+      ],
+      "ocr": [
+        153,
+        10,
+        238
+      ],
+      "fusion": [
+        148,
+        153,
+        76
+      ]
+    },
+    "confidence": 0.38645386695861816
+  },
+  {
+    "i": 177,
+    "text": "KProtein GOODSOURCEOFPROTEIN lorlwCALOREs Kelloggi\" NOURISHING 120 Special CALORIES WHOLEGRAN K VITIMIND OUC.ACID Protein SatisfiesHunger 14g PROTEIN CEREAL",
+    "rank": {
+      "image": [
+        123,
+        149,
+        24
+      ],
+      "ocr": [
+        290,
+        153,
+        177
+      ],
+      "fusion": [
+        153,
+        152,
+        290
+      ]
+    },
+    "confidence": 0.6260502089892632
+  },
+  {
+    "i": 263,
+    "text": "Kraft 1-500-567-KRAFT W N 00 0",
+    "rank": {
+      "image": [
+        263,
+        279,
+        41
+      ],
+      "ocr": [
+        263,
+        2,
+        19
+      ],
+      "fusion": [
+        263,
+        275,
+        133
+      ]
+    },
+    "confidence": 0.597278749443775
   },
   {
     "i": 3,
     "text": "REMENT BjORG MUESLI SANSSUCRESAJOUTES RAISIN,FIOUE,DATTE,ABRICOT CEREALESCOMPLETES RICHE ENFIBRES BIO AB sCORT A 375g",
     "rank": {
       "image": [
-        2,
-        5,
-        3
+        123,
+        45,
+        18
       ],
       "ocr": [
         3,
-        2,
+        16,
         12
       ],
       "fusion": [
         3,
-        2,
-        12
+        16,
+        2
       ]
     },
-    "confidence": 0.7268714961280962
+    "confidence": 0.717688460562191
   },
   {
-    "i": 0,
-    "text": "NUTRI-SCORE Cruesli MELANGEDE NOIX NECOHPLETE QUAKER. BICHEENFISRES SANS 450ge",
+    "i": 104,
+    "text": "Ingredients:Whole Grain Oats* Cane Sugar*,Rice*,Sunflower Oil*,Honey*, Molasses*,Sea Salt,Natural Flavor*.Vitamin E (mixed tocopherols)Added to Preserve Freshness. Organic",
     "rank": {
       "image": [
-        0,
-        4,
-        10
+        54,
+        18,
+        192
       ],
       "ocr": [
-        0,
-        9,
-        5
+        189,
+        233,
+        244
       ],
       "fusion": [
-        0,
-        9,
-        5
+        102,
+        244,
+        233
       ]
     },
-    "confidence": 0.6650526050336483
+    "confidence": 0.35582422113138434
+  },
+  {
+    "i": 290,
+    "text": "50 150 150 080055",
+    "rank": {
+      "image": [
+        185,
+        194,
+        148
+      ],
+      "ocr": [
+        250,
+        238,
+        31
+      ],
+      "fusion": [
+        185,
+        194,
+        148
+      ]
+    },
+    "confidence": 0.38158005475997925
+  },
+  {
+    "i": 296,
+    "text": "FORMAT 800g nutella",
+    "rank": {
+      "image": [
+        287,
+        295,
+        291
+      ],
+      "ocr": [
+        296,
+        293,
+        285
+      ],
+      "fusion": [
+        296,
+        293,
+        295
+      ]
+    },
+    "confidence": 0.6894736488291155
+  },
+  {
+    "i": 187,
+    "text": "Nutrition Facts Amount/Teneur .0A%/A0% Amount/Teneur %DV/%VO Valeurnutritive Fat/Lipides3.5g 5% Saturated/satures1g Carbohydrate/Glucides20g7% Serv.Size 1/4 cup（32g） +Trans/trans0 5% Fibre/Fibres3g 12% Portion 1/4 tasse（32g） Chnestero/CholesterolOmg0% Sugars/Sucres3g Calories/Calories130 Sodium/Sodium1mg DV=DailyValue 1% Protein/Proteines5g VQ=valeurquotidienne VitaminA/VitaminA 0% Vitamin C/Vitamine C Calcium/Calcium 2% 0% lron/Fer 10% 8201v2a",
+    "rank": {
+      "image": [
+        76,
+        148,
+        208
+      ],
+      "ocr": [
+        177,
+        198,
+        153
+      ],
+      "fusion": [
+        177,
+        76,
+        148
+      ]
+    },
+    "confidence": 0.365982563069144
+  },
+  {
+    "i": 148,
+    "text": "E.NACINAMIDEREDUCED IRONZIN NB(THA VONI E.VITAMINBPYRIDOXINE HYDROCHLORIDE) E(ALPHATOCOPHEROLACETATE）FOUCACIDTAM TAINSWHEATINGREDIENTS 3AVNE OCH.ORIDE).VITAM",
+    "rank": {
+      "image": [
+        178,
+        244,
+        208
+      ],
+      "ocr": [
+        238,
+        31,
+        199
+      ],
+      "fusion": [
+        178,
+        244,
+        208
+      ]
+    },
+    "confidence": 0.3097974956035614
+  },
+  {
+    "i": 249,
+    "text": "nutella FERRERO HazelnutSpread with Cocoo",
+    "rank": {
+      "image": [
+        117,
+        270,
+        249
+      ],
+      "ocr": [
+        293,
+        285,
+        292
+      ],
+      "fusion": [
+        293,
+        270,
+        295
+      ]
+    },
+    "confidence": 0.8238376498222351
+  },
+  {
+    "i": 46,
+    "text": "F NutritionFacts Pesfug Calories E 160 Lyr Svmfe's 15 Peuvacleilg 115 Pfe CRANOAIS.SUGAR NGRDENTEWHOLE FLAVORSALE ROWNSUGARNURA PADUOLTDNSTRSUTED CNCINNACO 452 BYTHEKROGERCO FORMOAEPRODUCI NFONNACONSCANUPC CR.CALL400-432-4900",
+    "rank": {
+      "image": [
+        208,
+        123,
+        220
+      ],
+      "ocr": [
+        207,
+        124,
+        204
+      ],
+      "fusion": [
+        208,
+        123,
+        207
+      ]
+    },
+    "confidence": 0.479236364364624
+  },
+  {
+    "i": 135,
+    "text": "FOODSLION Quick Oats 100%Whole Grain Oats Oolesterol FreeFood GoodSource ofFiber LowFat Food 男晨",
+    "rank": {
+      "image": [
+        135,
+        32,
+        215
+      ],
+      "ocr": [
+        135,
+        244,
+        49
+      ],
+      "fusion": [
+        135,
+        244,
+        215
+      ]
+    },
+    "confidence": 0.7285896996816965
+  },
+  {
+    "i": 192,
+    "text": "INGREDIENTS:WHOLEGRAINROLLEDOATS. WHOLEGRAIN OATFLOUR,CONTAINSLESS STHAN2%OF:CALCIUM CARBONATE E(ASOURCEOFCALCIUM),SALT, GUARGUM CARAMELCOLOR,FERRICORTHOPHOSPHATE (ASOURCE OFIRON),VITAMINAPALMITATE",
+    "rank": {
+      "image": [
+        54,
+        76,
+        148
+      ],
+      "ocr": [
+        50,
+        51,
+        52
+      ],
+      "fusion": [
+        54,
+        76,
+        148
+      ]
+    },
+    "confidence": 0.26526665687561035
+  },
+  {
+    "i": 59,
+    "text": "Goneral FAMILYSIZE Mills 1930 FROSTED TOASTED OATCEREALWITH MARSHMALLOWS lucky Charms P1 140 NETWT1LB3. Free （19.3OZ）（5",
+    "rank": {
+      "image": [
+        67,
+        115,
+        58
+      ],
+      "ocr": [
+        58,
+        59,
+        77
+      ],
+      "fusion": [
+        58,
+        59,
+        67
+      ]
+    },
+    "confidence": 0.9091628909111023
+  },
+  {
+    "i": 36,
+    "text": "0/12/2021 30604 100% CREMA DI NOCCIOLE Solo 1 ingrediente",
+    "rank": {
+      "image": [
+        36,
+        34,
+        269
+      ],
+      "ocr": [
+        36,
+        198,
+        111
+      ],
+      "fusion": [
+        36,
+        269,
+        34
+      ]
+    },
+    "confidence": 0.6957033033699509
+  },
+  {
+    "i": 145,
+    "text": "INSEASON YEARROUND TM -Organic- HONEYNUT FLAVORED TOASTEDOATSCREAL Sweted wolegenoet cred wjust the right aount of honey and almon flevor CertifiedOrganic 2 Noetindl (oloesor fvors NETWT12.2502（4",
+    "rank": {
+      "image": [
+        145,
+        142,
+        125
+      ],
+      "ocr": [
+        102,
+        95,
+        127
+      ],
+      "fusion": [
+        102,
+        145,
+        103
+      ]
+    },
+    "confidence": 0.5607987234564423
+  },
+  {
+    "i": 43,
+    "text": "BANANIN",
+    "rank": {
+      "image": [
+        296,
+        158,
+        256
+      ],
+      "ocr": [
+        238,
+        31,
+        199
+      ],
+      "fusion": [
+        296,
+        158,
+        256
+      ]
+    },
+    "confidence": 0.45253679156303406
+  },
+  {
+    "i": 256,
+    "text": "AO% uponbn% Nutrition Facts Valeur nutritive （61）d0 res/Calories 100 m/Sodium75mg 6gsapdn/",
+    "rank": {
+      "image": [
+        148,
+        261,
+        189
+      ],
+      "ocr": [
+        238,
+        31,
+        199
+      ],
+      "fusion": [
+        148,
+        261,
+        189
+      ]
+    },
+    "confidence": 0.3878600597381592
+  },
+  {
+    "i": 196,
+    "text": "Oats& More withStrawberries BRAND OD Cereal sweetened multi-grain cereal naturally flavoredwith othernatural flavors real strawberries",
+    "rank": {
+      "image": [
+        46,
+        153,
+        181
+      ],
+      "ocr": [
+        156,
+        167,
+        196
+      ],
+      "fusion": [
+        156,
+        196,
+        167
+      ]
+    },
+    "confidence": 0.6679497250061823
+  },
+  {
+    "i": 123,
+    "text": "NO MRTCA QUAKER -EST:1877- -INSTANTOATMEAL MAPLE& BROWNSUGAR FLAVORWITHOTHER NATURALFLAVORS MCDUCTFLAOR HEART Deta HEALTHY 18-1.510Z(43g)PACKETS NETWT27.30Z(1L8110Z)7740",
+    "rank": {
+      "image": [
+        30,
+        125,
+        124
+      ],
+      "ocr": [
+        112,
+        113,
+        122
+      ],
+      "fusion": [
+        122,
+        123,
+        112
+      ]
+    },
+    "confidence": 0.564606128821917
+  },
+  {
+    "i": 217,
+    "text": "Ingredients:Sugar,ComFlour,CoMealCo Syrup,Canola Oil,Cocoa (processed with alkali）, CalciumCarbonate,Salt,Caramel Color,Trisodium Phosphate, Natural and Artificial Flavor. BHT (added topreservefreshness). Vitamins and Minerals:Ferric Orthophos- phate（source ofiron),Niacinamide(Vitamin B3), Zinc Oxide,Thiamin Mononitrate (Vitamin B1), Calcium Pantothenate (Vitamin B5),Pyridoxine Hydrochloride(VitaminB6),FolicAcid.",
+    "rank": {
+      "image": [
+        76,
+        148,
+        54
+      ],
+      "ocr": [
+        252,
+        249,
+        268
+      ],
+      "fusion": [
+        267,
+        196,
+        76
+      ]
+    },
+    "confidence": 0.354046362020914
+  },
+  {
+    "i": 25,
+    "text": "BjORG Croustillant 3NOIX NOISETTE.AMANDE,NOIXDECAJOU BIO Riche en fibres Riche en cerbales completes",
+    "rank": {
+      "image": [
+        103,
+        127,
+        176
+      ],
+      "ocr": [
+        25,
+        16,
+        12
+      ],
+      "fusion": [
+        16,
+        25,
+        12
+      ]
+    },
+    "confidence": 0.5689632789219334
+  },
+  {
+    "i": 241,
+    "text": "Protein5g VitaminA 0%VitaminC 0% Calcium 2%lron 8% INGREDIENTS ROLLED OATS,ROLLED WHOLEWHEAT,BROWNSUGAR MODIFIED MILK INGREDIENTS,DRIED UNSWEETENED COCONUTCOCONUTOILAMONDS,HONEYNATURAL FLAVOUR. CONTAINS OAT,WHEAT,MILK,AND ALMOND INGREDIENTS. QUAKER CONSUMER SERVICE QUESTIONSORCOMMENTS?CALL1-800-267-6287 WEEKDAYS.8:30A.M.T05:00P.M.EASTERNTIME PLEASEHAVEBOXAVAILABLEWHENCALLING. www.quakeroats.ca PepsiCo Canada ULCPeterboroughOntario K9B2",
+    "rank": {
+      "image": [
+        208,
+        76,
+        148
+      ],
+      "ocr": [
+        208,
+        235,
+        238
+      ],
+      "fusion": [
+        208,
+        235,
+        120
+      ]
+    },
+    "confidence": 0.6057049040405722
+  },
+  {
+    "i": 244,
+    "text": "QUAKER -Est1877（（- 100%WHOLEGRAINCANADIAN OATS QUICK OATS Helps Reduce OatFibre Cholesterol'",
+    "rank": {
+      "image": [
+        235,
+        88,
+        234
+      ],
+      "ocr": [
+        49,
+        135,
+        215
+      ],
+      "fusion": [
+        49,
+        244,
+        234
+      ]
+    },
+    "confidence": 0.5835129014135086
+  },
+  {
+    "i": 47,
+    "text": "GOOD SOURCE OF FIBER OROANICALLY GROWH NsprriereH simpletruth INSTANT organic OATMEAL ORIGINAL 12 PAOXETS 504 NETWT120Z(340g)",
+    "rank": {
+      "image": [
+        100,
+        195,
+        127
+      ],
+      "ocr": [
+        125,
+        47,
+        111
+      ],
+      "fusion": [
+        125,
+        47,
+        111
+      ]
+    },
+    "confidence": 0.7035705643837806
+  },
+  {
+    "i": 201,
+    "text": "Nutrition meutsening Facts Total Fat 2.5g 3% TotalCant.2y Sening size Sat.Fat 0.5g 3% Fber4g 1container(40g) TransFat Og SoldleReg Calories 150 PolyunsaturatedFat1g Tota Ssopnsi Monounsaturated Fatg yowmucha Cholest.Omg 0% Prteins etinseningo Sodium 115mg 5% 2.000clries aytuadfor peneral .FOUC.NOO",
+    "rank": {
+      "image": [
+        208,
+        281,
+        135
+      ],
+      "ocr": [
+        250,
+        238,
+        31
+      ],
+      "fusion": [
+        208,
+        281,
+        135
+      ]
+    },
+    "confidence": 0.3999336063861847
+  },
+  {
+    "i": 2,
+    "text": "doatwcres sapono un mode de vie sain. alimentationvariee etequilibree Pour votre sante,associez une cru quecuit. Ceproduit se consommeaussi bien protectrice. Conditionne sous atmosphere delesconserveral'abri deI'humidite. foconsd'avoine,nous vous consei INGREDIENT:Avoinecomplet ANALYSE Floconsd'avoine complets. complets d'Avoine TELLE 11.36 1.35 7.15 BIO 125 57.9g 11.AE 1531M 0.13 4.5E 1.76 645 19.15 856 40g+125m 01930-2 W Cthe N'",
+    "rank": {
+      "image": [
+        35,
+        148,
+        34
+      ],
+      "ocr": [
+        16,
+        63,
+        119
+      ],
+      "fusion": [
+        35,
+        2,
+        16
+      ]
+    },
+    "confidence": 0.48922160818785365
+  },
+  {
+    "i": 51,
+    "text": "ExcellentSourceoi Calcium and olron vitamins Essenciel 1893 CREAM WHEAT Lnstant HOTCEREAL $5891 OriginalFlavor CONENS 12 MCITS PERSERVING 100 170. 07285125 TW20336g",
+    "rank": {
+      "image": [
+        164,
+        62,
+        192
+      ],
+      "ocr": [
+        50,
+        51,
+        52
+      ],
+      "fusion": [
+        50,
+        51,
+        52
+      ]
+    },
+    "confidence": 0.6217400629629609
+  },
+  {
+    "i": 62,
+    "text": "perServing Calories P Bran Ce Original Mils FIBER FirstIngredient WholeGrain One With 1LB0.20Z（16.20Z）(459 告 57% YOUFULI KEEP HELPS OFFIBE CRUE",
+    "rank": {
+      "image": [
+        158,
+        115,
+        119
+      ],
+      "ocr": [
+        62,
+        235,
+        234
+      ],
+      "fusion": [
+        62,
+        146,
+        125
+      ]
+    },
+    "confidence": 0.693508020423862
+  },
+  {
+    "i": 215,
+    "text": "QUICK MOM'S BEST. OATS cereals YesBest!",
+    "rank": {
+      "image": [
+        121,
+        234,
+        43
+      ],
+      "ocr": [
+        215,
+        227,
+        49
+      ],
+      "fusion": [
+        215,
+        227,
+        49
+      ]
+    },
+    "confidence": 0.8533377766609191
+  },
+  {
+    "i": 29,
+    "text": "TERRES CEREALES bio Muesli CROUSTILANT Tradition",
+    "rank": {
+      "image": [
+        45,
+        123,
+        192
+      ],
+      "ocr": [
+        29,
+        45,
+        30
+      ],
+      "fusion": [
+        45,
+        29,
+        30
+      ]
+    },
+    "confidence": 0.6869037001039501
+  },
+  {
+    "i": 181,
+    "text": "110Calories -Kellogg' FATFREE Special LigheyTaasnd Ricr Cereal Lose61bsm2 weeks NETW380Z.602）（10g",
+    "rank": {
+      "image": [
+        172,
+        59,
+        62
+      ],
+      "ocr": [
+        151,
+        181,
+        130
+      ],
+      "fusion": [
+        172,
+        152,
+        181
+      ]
+    },
+    "confidence": 0.5785602976386427
+  },
+  {
+    "i": 97,
+    "text": "18627″74000",
+    "rank": {
+      "image": [
+        261,
+        185,
+        148
+      ],
+      "ocr": [
+        238,
+        31,
+        199
+      ],
+      "fusion": [
+        261,
+        185,
+        148
+      ]
+    },
+    "confidence": 0.35146981477737427
   },
   {
     "i": 4,
@@ -159,65 +2337,2199 @@
     "rank": {
       "image": [
         4,
-        9,
-        10
+        22,
+        114
       ],
       "ocr": [
         4,
-        14,
-        15
+        22,
+        282
       ],
       "fusion": [
         4,
-        9,
-        10
+        22,
+        7
       ]
     },
-    "confidence": 0.797186175475458
+    "confidence": 0.786811493027037
+  },
+  {
+    "i": 218,
+    "text": "INGREDIENTES:Grano entero de trigo+(80%), azucares anadidos(azucar（sacarosa)（19,8%)), grenetina.BHT（para conservarla frescura delproducto). VITAMINASYMINERALES:Hierroreducido (comofuentedehierro),vitamina B3 (niacinamida),acido folico,oxido de zinc (comofuentedezinc),vitaminaB6 （hidrocloruro de piridoxina),vitamina B2 （riboflavina),B1（mononitrato de tiamina), vitamina B12.CONTIENE:*GLUTEN（TRIGO）",
+    "rank": {
+      "image": [
+        76,
+        148,
+        208
+      ],
+      "ocr": [
+        183,
+        153,
+        274
+      ],
+      "fusion": [
+        76,
+        148,
+        80
+      ]
+    },
+    "confidence": 0.377286434173584
+  },
+  {
+    "i": 253,
+    "text": "NEW! Reese's spreads peanutbutter chocolate",
+    "rank": {
+      "image": [
+        254,
+        43,
+        287
+      ],
+      "ocr": [
+        254,
+        253,
+        61
+      ],
+      "fusion": [
+        254,
+        253,
+        256
+      ]
+    },
+    "confidence": 0.7026544253399989
+  },
+  {
+    "i": 146,
+    "text": "About13servingspercontainer iacts Serving size 1cup(39g) Per1cup cereal Per1ccv 120 12 ki n Calories 170 %DV\" -A0% TotalFat 1g 1% 1g 1% SaturatedFat 0g 0% Og 0% 0g 0g PolyunsaturatedFat 0.5g 0.5g MonounsaturatedFat 0g 60 Cholesterol Omg 0% 5mg 1% Sodium 230mg 10% 280mg 12% TotalCarb 31g 11% 37g 13% DietaryFiber 7g 24% 7g 24% SolubleFiber <1g <1g InsolubleFiber 5g 5g Total Sugars 6g 12g Incl Added Sugars 6g 11% 6g 11% Protein 4g 8g",
+    "rank": {
+      "image": [
+        208,
+        148,
+        76
+      ],
+      "ocr": [
+        177,
+        290,
+        172
+      ],
+      "fusion": [
+        177,
+        290,
+        148
+      ]
+    },
+    "confidence": 0.4228208580508681
+  },
+  {
+    "i": 48,
+    "text": "HEART 100WHCLIGAN HEALTI old fashioned",
+    "rank": {
+      "image": [
+        48,
+        140,
+        237
+      ],
+      "ocr": [
+        194,
+        48,
+        140
+      ],
+      "fusion": [
+        48,
+        140,
+        134
+      ]
+    },
+    "confidence": 0.6120664430627788
+  },
+  {
+    "i": 176,
+    "text": "Ingredients:Whole grain wheat,rice sugar,whole grain oats,wheat bran, milled corn,contains 2%orlessof honeyal,matflavraturan artificialflavors,BHTforfreshness. Vitaminsand Minerals:Vitamin C ascorbicacid),reducediron, niacinamide,vitaminBe（pyridoxine hydrochloride),vitamin B2（riboflavin） vitamin B（thiamin hydrochloride), vitaminApalmitate,folicacid,vitamin B12,vitaminD3(cholecalciferol). CONTAINSWHEATINGREDIENTS CORNUSEDINTHISPRODUCTMAY CONTAINTRACESOFSOYBEANS.",
+    "rank": {
+      "image": [
+        148,
+        76,
+        208
+      ],
+      "ocr": [
+        149,
+        170,
+        244
+      ],
+      "fusion": [
+        148,
+        244,
+        149
+      ]
+    },
+    "confidence": 0.43234037652831714
+  },
+  {
+    "i": 272,
+    "text": "vitgietale (caiza oapaun",
+    "rank": {
+      "image": [
+        178,
+        76,
+        208
+      ],
+      "ocr": [
+        238,
+        31,
+        199
+      ],
+      "fusion": [
+        178,
+        76,
+        208
+      ]
+    },
+    "confidence": 0.2804916799068451
+  },
+  {
+    "i": 85,
+    "text": "Cinnamon Kasnl. biologique Harvest\" Kashi Very High Fibre OrganicCinnamon Harvest Oranic WhelwheotBcuit Boked withSweet Cinnomon 69 479",
+    "rank": {
+      "image": [
+        85,
+        92,
+        12
+      ],
+      "ocr": [
+        89,
+        85,
+        92
+      ],
+      "fusion": [
+        89,
+        85,
+        92
+      ]
+    },
+    "confidence": 0.702917377207857
+  },
+  {
+    "i": 152,
+    "text": "Delight speciaik.com Special bbogey FREE WATER BOTT FIDENCE OUGOTTHIS DREAM BIGGE HECKYES·O TINMO -YOUARE SHAPPEN",
+    "rank": {
+      "image": [
+        151,
+        160,
+        166
+      ],
+      "ocr": [
+        151,
+        183,
+        130
+      ],
+      "fusion": [
+        151,
+        152,
+        130
+      ]
+    },
+    "confidence": 0.5519909208086411
+  },
+  {
+    "i": 210,
+    "text": "Erewhon Corn Flakes Tlsely ssttngfmeybt durey dippoyed lendiog Ingredients: Organic Milled Com, Sea Salt: Nutrition Facts Serving Size 1 cup (34g) Senvings Per Container About 9 Calories130 Caiores from Fat O Total Fat Og 0% 0% Cholesterol Omg TansFatOg Sodum60mg 3% D PotassiumGOmg 10% 2% Total Carbohydrate30g Dletary Fiber 1g Sugws Og 6% Protain3g",
+    "rank": {
+      "image": [
+        208,
+        244,
+        49
+      ],
+      "ocr": [
+        210,
+        170,
+        182
+      ],
+      "fusion": [
+        210,
+        182,
+        170
+      ]
+    },
+    "confidence": 0.6940274249192793
+  },
+  {
+    "i": 122,
+    "text": "Fat9·Carbohydrates4·Protein4 INGREDIENTS:Whole grain oats sugaraltaural favormon fruitextract.",
+    "rank": {
+      "image": [
+        54,
+        18,
+        208
+      ],
+      "ocr": [
+        244,
+        156,
+        189
+      ],
+      "fusion": [
+        244,
+        208,
+        194
+      ]
+    },
+    "confidence": 0.4402018117868509
+  },
+  {
+    "i": 269,
+    "text": "",
+    "rank": {
+      "image": [
+        272,
+        283,
+        41
+      ],
+      "ocr": [
+        238,
+        31,
+        199
+      ],
+      "fusion": [
+        272,
+        283,
+        41
+      ]
+    },
+    "confidence": 0.43341678380966187
+  },
+  {
+    "i": 28,
+    "text": "12x40g Weetabix CRiSPY MiNiS NUTRI-SCORE D CHOCO",
+    "rank": {
+      "image": [
+        28,
+        24,
+        10
+      ],
+      "ocr": [
+        28,
+        8,
+        238
+      ],
+      "fusion": [
+        28,
+        8,
+        24
+      ]
+    },
+    "confidence": 0.7970992487218014
+  },
+  {
+    "i": 24,
+    "text": "COUNTRY CRiSP SANS CONEVKTEUR SLAOV/TE CONDRANT ctRfALRS cOMPITES-L 3BAIES CRANBERRIES CASSIS MYRTILLES",
+    "rank": {
+      "image": [
+        24,
+        23,
+        239
+      ],
+      "ocr": [
+        9,
+        24,
+        23
+      ],
+      "fusion": [
+        24,
+        23,
+        9
+      ]
+    },
+    "confidence": 0.6506384486896196
+  },
+  {
+    "i": 293,
+    "text": "lecithines[soJA];vanilline. Ingredienten:suiker,palmolie,HAZELNOTEN 13% magere MELKPOEDER 8.7%,magere caca07，4% emulgatoren:lecithinen[sojA];vanilline. Distribue en France par Ferrero France Commerciale -CS 90058-76136 MontSaintAignan Cedex.Distribue enBelgiquepar/Verdeeld inBelgiedoorFerreroS.A/ NV.-Chausseedela Hulpe/Terhulpsesteenweg,187 1170Bruxelles/Brussel.Gedistribueerd inNederlanddoor FerreroB.V.-Westbroek58-4822ZWBreda Aconserverausecetalabridelachaleur Droog en uit dewarmte bewaren ONL/LUX:0080021042104 24C COUVERCLE DEKSEL 18°℃ BURESTAEYM AEER FPSPUASTICS",
+    "rank": {
+      "image": [
+        148,
+        84,
+        76
+      ],
+      "ocr": [
+        14,
+        293,
+        285
+      ],
+      "fusion": [
+        14,
+        119,
+        65
+      ]
+    },
+    "confidence": 0.5430002918441978
   },
   {
     "i": 9,
     "text": "COUNTRY CRiSP SANS MML AIOUtt CIREALISCOMITSA 4NOIX NOIX DU BRESIL AMANDES NOIX DEPECAN NOISETTES",
     "rank": {
       "image": [
-        0,
-        8,
-        12
+        24,
+        236,
+        45
       ],
       "ocr": [
         9,
-        0,
-        15
+        24,
+        21
       ],
       "fusion": [
         9,
-        0,
-        5
+        24,
+        23
       ]
     },
-    "confidence": 0.6506023450093216
+    "confidence": 0.6529525761488955
+  },
+  {
+    "i": 193,
+    "text": "CALO SCRUnCHa Honeynut Toasted Oats HONEY 2250Z（347g)",
+    "rank": {
+      "image": [
+        193,
+        100,
+        241
+      ],
+      "ocr": [
+        145,
+        193,
+        195
+      ],
+      "fusion": [
+        193,
+        145,
+        195
+      ]
+    },
+    "confidence": 0.6330844923558078
+  },
+  {
+    "i": 160,
+    "text": "FIBER&WHOLE GRAIN bhopgy LOOPS",
+    "rank": {
+      "image": [
+        158,
+        231,
+        168
+      ],
+      "ocr": [
+        173,
+        160,
+        166
+      ],
+      "fusion": [
+        160,
+        173,
+        166
+      ]
+    },
+    "confidence": 0.5506410513607566
+  },
+  {
+    "i": 112,
+    "text": "Ingredients: Whole grain oat flour. sugar, com flour,wholewheatfour.ceffour.saltcalcium carbonate, disodium phosphate,reduced iron, niacinamide*,zinc oxide,BHt （preservative).yellow 5.yellow 6,thiamin mononitrate*,riboflavin*, pyridoxine hydrochloride',folicacid 'One of the Bvitamins CONTAINSWHEATINGREDIENTS",
+    "rank": {
+      "image": [
+        76,
+        148,
+        93
+      ],
+      "ocr": [
+        244,
+        234,
+        235
+      ],
+      "fusion": [
+        244,
+        234,
+        102
+      ]
+    },
+    "confidence": 0.3627295663450357
+  },
+  {
+    "i": 23,
+    "text": "UN MILLIOND'ABEILLESPARRAINEES JORDANS S'ENGAGE COUNTRY CRiSP SANS HMEDEFUME CCNSERIAEUR CCLCRANT CHOCOLAT NOIR 70%DECACAO NUTRI-SCORE 550ge",
+    "rank": {
+      "image": [
+        9,
+        24,
+        0
+      ],
+      "ocr": [
+        23,
+        9,
+        24
+      ],
+      "fusion": [
+        23,
+        9,
+        24
+      ]
+    },
+    "confidence": 0.7981992282458162
+  },
+  {
+    "i": 92,
+    "text": "Valeurnutritive Portion de 29 biscuits (54 g) Teneurparportion Cereales 1/2tasse Avec delalt 1% Calories 200 250 %valeurquotidienne Lipides1gt 2% 4% satures0,2g +trans0g 1% 5% Cholesterol O mg 0% 2% Sodlum0mg 0% 3% Potassium180mg 5% 11% Glucides43g 14% 16% Fibres6g 24% 24% Sucres7g Proteines6g Vitamine A %0 8% Vitamine C 0% 0% Calcium 2% 15% Fer 10% 10% Thiamine 15% 20% Niacine 15% 20% Vitamine B 6% 8% Folate 8% 8% Pantothenate 6% 10% Phosphore 15% 30% Magnesium 25% 35% Zinc 15% 25% Dans les cerbales",
+    "rank": {
+      "image": [
+        178,
+        208,
+        148
+      ],
+      "ocr": [
+        258,
+        125,
+        158
+      ],
+      "fusion": [
+        178,
+        208,
+        125
+      ]
+    },
+    "confidence": 0.32622262835502625
+  },
+  {
+    "i": 147,
+    "text": "Kelloyg's CORN FLAKES THE ORIGINALAHE NETWT/PESONETO 24OZ（1LB80Z)（680g）",
+    "rank": {
+      "image": [
+        147,
+        238,
+        11
+      ],
+      "ocr": [
+        170,
+        182,
+        210
+      ],
+      "fusion": [
+        170,
+        147,
+        182
+      ]
+    },
+    "confidence": 0.6799627691243062
+  },
+  {
+    "i": 103,
+    "text": "Ingredients:YellowCorn Grits*,WholeGrainWheat* CaneSugar*,Whole Grain Oats*,Rice*,Almonds* SunflowerOil*,Honey* Kernza?PerennialGrains* SeaSalt,InvertCaneSyrup* Molasses*,SoyLecithin*， NaturalFlavor*.VitaminE (mixed tocopherols)Addedto Preserve Freshness.*Organic CONTAINS WHEAT,ALMOND ANDSOYINGREDIENTS.",
+    "rank": {
+      "image": [
+        76,
+        148,
+        18
+      ],
+      "ocr": [
+        233,
+        103,
+        244
+      ],
+      "fusion": [
+        244,
+        233,
+        120
+      ]
+    },
+    "confidence": 0.4277005422079172
+  },
+  {
+    "i": 7,
+    "text": "Nestle Blecomplet Volkorentarwe Pingrdint C'ESTFORTEV CHOCAPIC Bio B NUTRI-SCORE E",
+    "rank": {
+      "image": [
+        7,
+        66,
+        176
+      ],
+      "ocr": [
+        4,
+        22,
+        7
+      ],
+      "fusion": [
+        4,
+        7,
+        22
+      ]
+    },
+    "confidence": 0.7182460349677261
+  },
+  {
+    "i": 18,
+    "text": "ENGAGE POURLA PLANETE QUAKER -ESTP1877- 100%NATUREL QUAKER OATS FLOCONSDAVOINE COMPLETE CONSERVATELES SANA Ceatrih MNSSUCRD Suao 550ge",
+    "rank": {
+      "image": [
+        18,
+        128,
+        107
+      ],
+      "ocr": [
+        18,
+        183,
+        234
+      ],
+      "fusion": [
+        18,
+        234,
+        183
+      ]
+    },
+    "confidence": 0.648107288565506
+  },
+  {
+    "i": 252,
+    "text": "Nutrition Amount/Serving %DV\" Amount/Serving Facts Total Fat 12g 18% Total Carb.21g Serv Size2 tbsp.（37g) Sat.Fat 4g 20% 7 Fiber 1g Servings27 TransFat Og 5% Calories200 Sugars 21g FatCal110 Cholest.0mg 0% Protein 2g *Peroent Daily Valoes(DV）are Sodium 15mg 1% sdona2.000calorie diet Vitamin A0%·Vitamin C0%·Calcium 4%·lro045 DO NOT REFRIGERATE MADEIN CANADA FERRERO ORMICROWAVE Questions?Call1(800)Nu atNutellaUSA",
+    "rank": {
+      "image": [
+        76,
+        148,
+        208
+      ],
+      "ocr": [
+        293,
+        285,
+        292
+      ],
+      "fusion": [
+        293,
+        76,
+        148
+      ]
+    },
+    "confidence": 0.45583946106523654
+  },
+  {
+    "i": 227,
+    "text": "MOM'S Quick BEST. cereals Oats 100%wole grn Cooks in one minute Heart",
+    "rank": {
+      "image": [
+        43,
+        121,
+        111
+      ],
+      "ocr": [
+        215,
+        227,
+        49
+      ],
+      "fusion": [
+        215,
+        49,
+        227
+      ]
+    },
+    "confidence": 0.8840691268444061
+  },
+  {
+    "i": 180,
+    "text": "Kellogg's CORN FLAKES THS ORIGISALAHSST 100",
+    "rank": {
+      "image": [
+        147,
+        236,
+        11
+      ],
+      "ocr": [
+        170,
+        182,
+        169
+      ],
+      "fusion": [
+        170,
+        182,
+        147
+      ]
+    },
+    "confidence": 0.7742069482803344
+  },
+  {
+    "i": 61,
+    "text": "Ingredients:WholeGrain Corn,SugarReeses PeanutButterpeanutssugarmonoglyceride peanutoilsalt,molasses,onstarch Dextrose,CornMealConSyrup,Canolail Salt,Hershey'sCocoa,Caramel Color, TrisodiumPhosphate,Natural Flavor.Vitamin E(mixed tocopherols)Added toPreserve Freshness.",
+    "rank": {
+      "image": [
+        76,
+        148,
+        208
+      ],
+      "ocr": [
+        170,
+        182,
+        210
+      ],
+      "fusion": [
+        94,
+        210,
+        76
+      ]
+    },
+    "confidence": 0.3953706140974593
+  },
+  {
+    "i": 279,
+    "text": "Ingreienten:Suker,ptsntaardige olien(raapzaad- ensdukjesaetterscothtaoso) magere cacao （4%),weipoeder,lactose,boter, olie,pafmolie),magereekpoeder,gacosestroop Kan sporen bevatten van pinda's,noten,soja en glu- emulgator(E322),kleurstof(E150a),aroma,zout ten.Opslag:Bewaren opeen droge plaatstussen deksel.Voedingswaarde per100g:Energie2300k/- +17Cen+23C.Tenminstehoudbaartot:Zie 8.3 g,koolhydraten 61g,waarvan suikers59g, 560kcal,vetten33g,waarvanverzadigde vetzuren eiwitten2,8g,zout0g. HergestelltinBelgienfur/Fabrique en Beigiquepour/Geproduceerd inBelgie voor: IKEA Food Services AB,Sjogatan 1, SE-25225Helsingborg,Sweden. InterIKEASystemsB.V.2012-2014 1.602.501.33.0007 400g",
+    "rank": {
+      "image": [
+        266,
+        296,
+        279
+      ],
+      "ocr": [
+        282,
+        279,
+        146
+      ],
+      "fusion": [
+        279,
+        282,
+        266
+      ]
+    },
+    "confidence": 0.4895887436610204
+  },
+  {
+    "i": 175,
+    "text": "Ingredients:Rice,whole grain wheat,uganatan contains2%orlessofsalt,brown sugaryrup,olublewheatfiber, cinnamon,malt flavoring,cornoil BHTforfreshness. Vitaminsand Minerals:Vitamin C (ascorbicacid),reduced iron, niacinamide,vitamin B6 (pyridoxine hydrochloride), vitamin B2（riboflavin),vitamin B1 （thiaminhydrochloride),vitamin A palmitate,folic acid,vitaminD vitaminB12.",
+    "rank": {
+      "image": [
+        148,
+        76,
+        208
+      ],
+      "ocr": [
+        233,
+        85,
+        244
+      ],
+      "fusion": [
+        233,
+        148,
+        244
+      ]
+    },
+    "confidence": 0.35121411527436774
+  },
+  {
+    "i": 213,
+    "text": "Malt Meal original Eeellent Soaree of Iron snd Folate NETWTABOR 130 (1LB20Z)510",
+    "rank": {
+      "image": [
+        213,
+        52,
+        210
+      ],
+      "ocr": [
+        216,
+        221,
+        229
+      ],
+      "fusion": [
+        213,
+        216,
+        50
+      ]
+    },
+    "confidence": 0.6172216612907815
+  },
+  {
+    "i": 93,
+    "text": "Kashi GO 9g Protein Honey Almond Flax Crunch",
+    "rank": {
+      "image": [
+        244,
+        123,
+        88
+      ],
+      "ocr": [
+        93,
+        86,
+        88
+      ],
+      "fusion": [
+        93,
+        86,
+        88
+      ]
+    },
+    "confidence": 0.6854907761756924
+  },
+  {
+    "i": 246,
+    "text": "Total Carbohydrate 48g Dietary Fber7g 17% 23% Soluble Fiber3g InsolubleFber4g Total Sugars9g Indl.3gAdded Sugars 5% Protein 7g Viamin D Omog 0% Calcum30mg 2% Ion7.2mg 40% Potassium280mg 6% Zinc 20% ciga Ingredients: Whole Grain Roled Oats Whole GrinWhetRaisins.Brow Sugar,WhtFlourMdBay Flour,Amonds,Hazuts,Sat Vamins and Minerals:Reduced lon,ZncOoide. ANDHAZELNUTS. CONTAINSWHEAT,ALMONDS POST CONSUMER BRANDS.LLC LAKEVILLE,MN55044,USA OPOST CONSUMERBRANDSLLC postconsumerbrands.com visit us at: 1-800-431-P0ST (7678) orcall werday:",
+    "rank": {
+      "image": [
+        208,
+        123,
+        122
+      ],
+      "ocr": [
+        194,
+        135,
+        244
+      ],
+      "fusion": [
+        208,
+        244,
+        135
+      ]
+    },
+    "confidence": 0.5377731623973923
+  },
+  {
+    "i": 233,
+    "text": "Nestle Gerber. dorganic biologique ERCELLENT SOURCEOF IRONLAND NOADOED SALT CALCIUM rice riz SOURCEDEFER EIOLLLENTE ETDECALCIUN SANSSEL AUDUTE' 208g Add BrMkaF Aodn dltmoudc prcpation pour noursons",
+    "rank": {
+      "image": [
+        233,
+        53,
+        215
+      ],
+      "ocr": [
+        233,
+        4,
+        158
+      ],
+      "fusion": [
+        233,
+        53,
+        149
+      ]
+    },
+    "confidence": 0.7667647070011465
+  },
+  {
+    "i": 262,
+    "text": "Penotti ANIC/BIO tocoa and hazelnut spread arbio au cacao et aux noisettes FAIRTRADE 350g",
+    "rank": {
+      "image": [
+        186,
+        257,
+        53
+      ],
+      "ocr": [
+        262,
+        15,
+        283
+      ],
+      "fusion": [
+        262,
+        15,
+        283
+      ]
+    },
+    "confidence": 0.7550067521944497
+  },
+  {
+    "i": 52,
+    "text": "NutritionFacts 10servingspercontainer Serving size 1packet(35g) Drycereal 12cplateemik Preparad with Calories 130 170 %DalyVale %Dally Valoe* Total Fat 0% og 0% SaturatedFat Og 0%0g 0% TransFat 9 Og Cholesterol Og 0%g 0% Sodium 140mg 6%190mg 8% TotalCarbohydrate 29g 11%35g 13% Dietary Fiber 9 3%19 3% Total Sugars 13g 19g Incl.AddedSugars 13g 26%13g 26% Protein 2g 6g VtamnD 4mcg 20%5.5mcg 25% unoeo 260mg 20%410mg 30% UOU 3.6mg 20%3.6mg 20% Potassium Bu02 0% 210mg 4% Thiamin 0.2mg 20%0.3mg 25% Ribofiavin 0.3mg 20%0.5mg 35% Niacin 3.2mg 20%4.1mg 25% Vtamin Bs 0.3mg 20%0.4mg 25% Folate 80mcgDFE20%85mcgDFE20% (70mogfolic acid)(70mog foicacid） Ouhowmuchanutetina seningdfod cebes",
+    "rank": {
+      "image": [
+        208,
+        76,
+        148
+      ],
+      "ocr": [
+        153,
+        158,
+        63
+      ],
+      "fusion": [
+        153,
+        208,
+        119
+      ]
+    },
+    "confidence": 0.46416548719260853
+  },
+  {
+    "i": 185,
+    "text": "QUAKER 0181220 OATMEAL SQUARES withahint of Cinnamon crunchy oat ceneal",
+    "rank": {
+      "image": [
+        108,
+        0,
+        103
+      ],
+      "ocr": [
+        185,
+        117,
+        127
+      ],
+      "fusion": [
+        127,
+        117,
+        109
+      ]
+    },
+    "confidence": 0.6530284771609349
+  },
+  {
+    "i": 158,
+    "text": "100 ellogg's RICE KRISPIES POP! SNAP! CRACKLE! SERVING SUGGESTON NETWT0.88OZ（25g） CEREAL",
+    "rank": {
+      "image": [
+        160,
+        128,
+        159
+      ],
+      "ocr": [
+        158,
+        149,
+        233
+      ],
+      "fusion": [
+        158,
+        149,
+        216
+      ]
+    },
+    "confidence": 0.6654504116369021
+  },
+  {
+    "i": 281,
+    "text": "e 280 Pouls werlane Nos Inyredients Matitoi tedukorr SANS HUILE DE PALME Ma BLe2",
+    "rank": {
+      "image": [
+        266,
+        188,
+        248
+      ],
+      "ocr": [
+        281,
+        37,
+        274
+      ],
+      "fusion": [
+        281,
+        274,
+        37
+      ]
+    },
+    "confidence": 0.4628503978591918
+  },
+  {
+    "i": 33,
+    "text": "nutella YERRERO",
+    "rank": {
+      "image": [
+        31,
+        33,
+        291
+      ],
+      "ocr": [
+        293,
+        285,
+        292
+      ],
+      "fusion": [
+        293,
+        31,
+        291
+      ]
+    },
+    "confidence": 0.6529593676558099
+  },
+  {
+    "i": 108,
+    "text": "100% SONO NYIS TIONR FIBER NO COENPERP QUAKER NO UOFDA -EST1877- INSTANTOATMEAL RAISIN,DATE&WALNUT HEALTHY HEART Dtrga SNIA 40 05, andcholestrolnuyheip 10-1380Z（37g）PACKETSNETWT130Z（370g）",
+    "rank": {
+      "image": [
+        109,
+        124,
+        9
+      ],
+      "ocr": [
+        108,
+        194,
+        242
+      ],
+      "fusion": [
+        108,
+        109,
+        127
+      ]
+    },
+    "confidence": 0.7013007511124257
+  },
+  {
+    "i": 299,
+    "text": "780g FORMAT nutella FERRERO PATEATARTINERAUXNOISETTES",
+    "rank": {
+      "image": [
+        158,
+        173,
+        35
+      ],
+      "ocr": [
+        293,
+        285,
+        292
+      ],
+      "fusion": [
+        293,
+        292,
+        295
+      ]
+    },
+    "confidence": 0.866798859834671
+  },
+  {
+    "i": 116,
+    "text": "Original QUAKER",
+    "rank": {
+      "image": [
+        130,
+        158,
+        168
+      ],
+      "ocr": [
+        111,
+        107,
+        245
+      ],
+      "fusion": [
+        111,
+        130,
+        245
+      ]
+    },
+    "confidence": 0.5300446040740574
+  },
+  {
+    "i": 114,
+    "text": "CAPN CRUNCHS PEANUT BUTTER CRUNCH OMFCITDAL 21010-",
+    "rank": {
+      "image": [
+        115,
+        118,
+        119
+      ],
+      "ocr": [
+        118,
+        82,
+        254
+      ],
+      "fusion": [
+        118,
+        114,
+        119
+      ]
+    },
+    "confidence": 0.7966094651638862
+  },
+  {
+    "i": 258,
+    "text": "",
+    "rank": {
+      "image": [
+        54,
+        18,
+        76
+      ],
+      "ocr": [
+        238,
+        31,
+        199
+      ],
+      "fusion": [
+        54,
+        18,
+        76
+      ]
+    },
+    "confidence": 0.3441809117794037
+  },
+  {
+    "i": 235,
+    "text": "QUAKER -）1877（ ALLNATURAL NO ADDITIVES-NO PRESERVATIVES Oat Bran CREAMY HOTCEREAL excellentforbaking 6 ofFibre 65C",
+    "rank": {
+      "image": [
+        235,
+        239,
+        50
+      ],
+      "ocr": [
+        235,
+        150,
+        146
+      ],
+      "fusion": [
+        235,
+        150,
+        146
+      ]
+    },
+    "confidence": 0.7915706023949292
+  },
+  {
+    "i": 139,
+    "text": "Wakeuptoaeurekamoment withsweet.wholegraindelightof foodclubapples&cinnamon instant oatmeal.How doyoulke them apples? Nutrition Facts INGREGINIS WHOLEGAANRDLLED OATS SUUFITETCAOUOTECDLOR RETENTION STFAEOWTSOON 10 serings per container Serving size 1packet(35g) COATINS M TLSEOCAOUM SALT CINNAMON SIARGUSI 1030805 CCOTEPICPHOSPHATE (A Calories 130 PALMITATE NIACWABIORT ALFUAOR.WTAMENA HYOROCEL LAVINTHIAMEN PYRIDOXINE Tetal Fat 1.5g Daiy Va 2% \"ONEOFTEVTAS Saturabed Fat 0g 0% 1885-43-0139 TansFat Og ELKGOWDA Polunsatrated Fat 0.5g www.fodeoo Monounsaturated Fat 0.5g 0% PREPARATIONINSTRUCTIORS Sodium170mg 7% 1.Emppatitool WITH HOTWATER: Total Carbohydrate27g A 10% 10% 2.A112 Total Sugus12g Forbestesets11o2ns Includes 9g Aoded Sugars 19% beforr seving Prstein 3g 1.E  MICRDWAVE: ou130ng amin D.0mog 10 3M  HG o636mg Ptnsustsdng 20% 2 mnA 20% 4. Caretulyremove het bet trom e tohickee 20% 20% 5.Srnd see 20% 201 imt CasIOncgDFE 50mcg fokcackt 20%",
+    "rank": {
+      "image": [
+        208,
+        76,
+        178
+      ],
+      "ocr": [
+        127,
+        125,
+        109
+      ],
+      "fusion": [
+        127,
+        192,
+        208
+      ]
+    },
+    "confidence": 0.5602230267508201
+  },
+  {
+    "i": 162,
+    "text": "BUTTER FLAVOR S PYRIDOXINE DROCHLORIDE REDUCED IRON MARSHMALLOW AND ARTIFICIAL 0 FOR FRESHNESS B2).SOYLECHIN CONTAINS MILKAND SOYINGREDIENTS. IRICE.SOGAR VEGETABLE Distributed byKellogg Sales Co. ,TM,2017KelloggNA Co. KelleggRice BattleCreek,MI49016USA The C WO PERCEN UPCPr OASTED RICECEREAL ATIURA MARGARINE DHBLHLM ARTIFICIAL ACETYLATED FOLIC CONTA VS SNBO AND PALMOIL ONV UCTOSE DATEM SUGAR. BHT FOR FRESHNESS, CORN SYRUP SOLIDS. NATURAL CONTAINSMILK], CORNSYRUP. OFDEXTROSE, YDROCHLORI SOYBEAN VATER.",
+    "rank": {
+      "image": [
+        148,
+        185,
+        76
+      ],
+      "ocr": [
+        170,
+        182,
+        207
+      ],
+      "fusion": [
+        148,
+        185,
+        76
+      ]
+    },
+    "confidence": 0.43417346477508545
+  },
+  {
+    "i": 143,
+    "text": "SovwTop Mocrowers 2 6 5oups 3/4cup 1 1-1/2cups 1/2op 1-1/2 op 1/4cup 1/8tsp 1/4t dash ndosretender. loats to bubupithout pfor3minutes.Stir andfnish ne4mnute:at50%power ostrndlettand1minut RCANDCONTAERMAYBEHOT. 3680042036",
+    "rank": {
+      "image": [
+        188,
+        248,
+        208
+      ],
+      "ocr": [
+        238,
+        31,
+        199
+      ],
+      "fusion": [
+        188,
+        248,
+        208
+      ]
+    },
+    "confidence": 0.43802738189697266
+  },
+  {
+    "i": 208,
+    "text": "ALEGRAIN Milville OATS ROLLED",
+    "rank": {
+      "image": [
+        269,
+        268,
+        15
+      ],
+      "ocr": [
+        208,
+        194,
+        49
+      ],
+      "fusion": [
+        208,
+        135,
+        48
+      ]
+    },
+    "confidence": 0.5554300849049063
+  },
+  {
+    "i": 49,
+    "text": "Kroqer QUICK 1 MINUTE OATS 100%CWholegrain HEART IMRGYFROME DOOSOURCE",
+    "rank": {
+      "image": [
+        49,
+        136,
+        234
+      ],
+      "ocr": [
+        49,
+        234,
+        135
+      ],
+      "fusion": [
+        49,
+        234,
+        135
+      ]
+    },
+    "confidence": 0.8275341367964354
+  },
+  {
+    "i": 288,
+    "text": "nutella FERRERO",
+    "rank": {
+      "image": [
+        277,
+        283,
+        15
+      ],
+      "ocr": [
+        293,
+        285,
+        292
+      ],
+      "fusion": [
+        293,
+        285,
+        258
+      ]
+    },
+    "confidence": 0.8404305100440979
+  },
+  {
+    "i": 223,
+    "text": "otie Faities Super Size! Cereal",
+    "rank": {
+      "image": [
+        231,
+        223,
+        158
+      ],
+      "ocr": [
+        216,
+        179,
+        156
+      ],
+      "fusion": [
+        223,
+        231,
+        216
+      ]
+    },
+    "confidence": 0.5068833518084505
   },
   {
     "i": 13,
     "text": "Cruesli CHOCOLAT NOIR- 15022513452557 MAXIFORMAT900g QUAKER. Cruesli ·CHOCOLATNOIR· BHVONK COMOLAETE ECHEDHTISRES SANS AADEAEROE MALNNM CPDAARE 900ge",
     "rank": {
       "image": [
-        0,
-        11,
-        12
+        17,
+        13,
+        0
       ],
       "ocr": [
-        0,
-        12,
-        15
+        13,
+        17,
+        260
       ],
       "fusion": [
-        0,
-        12,
-        11
+        17,
+        13,
+        0
       ]
     },
-    "confidence": 0.6171648708714998
+    "confidence": 0.712138966011125
+  },
+  {
+    "i": 30,
+    "text": "TERRES CEREALES bio LANSBIA DEPALRE Muesli Croustillant AVOINE AMANDES SANS GLUTEN 500g AB POINSNET SRANCE CERTIEAETHO",
+    "rank": {
+      "image": [
+        45,
+        128,
+        58
+      ],
+      "ocr": [
+        30,
+        29,
+        45
+      ],
+      "fusion": [
+        30,
+        45,
+        29
+      ]
+    },
+    "confidence": 0.8445295300891257
+  },
+  {
+    "i": 111,
+    "text": "Ingredients: Specially processed degerminated white corn grits,salt, calcium carbonate,reduced iron, niacin*,BHT and citric acid (as preservatives),thiamin mononitrate* riboflavin*,folic acid* Oneof theBvitamins (404-27)",
+    "rank": {
+      "image": [
+        76,
+        148,
+        93
+      ],
+      "ocr": [
+        170,
+        111,
+        182
+      ],
+      "fusion": [
+        111,
+        210,
+        182
+      ]
+    },
+    "confidence": 0.33375514901451264
+  },
+  {
+    "i": 142,
+    "text": "CIRC Nutrition Facts Serving size 1packet(40g) d  ntperserving Calories 150 SDalyVaor' OURSTORY 3% We eve ritlggoos Sermcfety 0% ofne wh4elmeo-ed lgborhoodgrWGedeMat flevrsndegtgty toyour PoymsenedFa Chelesteriing MnFa05 0% tter doe ntfe weys 1adum120g 5% ISnYlo Toal Cetetydete30g DyFow3g 11% OUROATS SueFoe 11% gn os ey et Proteiaig ncudes 10g Adsed Supan 20% componnts of th orgia gn see end nuento fueyor dy ounn Wh H Wn tblAdd DERECTIONS abot 1/2 t 2/9 p.b t.For bet r 0r012m INGREDNTORANCROLLED Gupunt auoyeg OATS.ORGANIC CANE SUGAR ORGANICFLAUISEED.SIASALT Moowive:En boeAdd about 2/3 op wote and o. Mcoae p puug r untl oatnealbegins to thickenCarely nemoe DSTRRTIO ILK GROVEVILLAGE0000 TOPCOASSOCANISLLS ine nomodGes  ewo aous 148H23409010PC0 VA0518 seed to adjast yoar cooking tn Adjust weter for desred thidness. CerttiedDrganis byou COMEVISITUS! wlpnepehy efe",
+    "rank": {
+      "image": [
+        208,
+        76,
+        144
+      ],
+      "ocr": [
+        63,
+        196,
+        172
+      ],
+      "fusion": [
+        208,
+        49,
+        233
+      ]
+    },
+    "confidence": 0.5184761884536819
+  },
+  {
+    "i": 167,
+    "text": "Sodium Lessthan 2.400mg 3.500mg 2.400mg Potassium 300g 375g 3.500mg Total Carbohydrate DietaryFiber 25g 30g Ingredients:Sugar.corn flour blend(whole grainyellow corn flour,degerminatedyellow corn flour),wheat flour,whole grain oat flour, oat fiber,soluble cornfiber,contains2%orless ofpartiallyhydrogenatedvegetable oil (coconut,soybean and/orcottonseed）,salt,red 40,naturalflavor,blue 2,turmeric color,yellow 6,annatto color,blue 1,BHT for freshness. Vitaminsand Minerals:Vitamin C(sodium ascorbate and ascorbicacid).niacinamide reduced iron,zinc oxide.vitamin Bs（pyridoxine nydrochloride),vitamin B2（riboflavin).vitamin B（thiamin hydrochloride).vitamin Apalmitate olic acid,vitamin D,vitamin B12 CONTAINS WHEATINGREDIENTS.CORN USED INTHISPRODUCT MAYCONTAINTRACESOF SOYBEANS. Distributed byKelloggSales Co ③,TM,O2012Kellogg NA Co Battle Creek,MI49016USA QuestionsorComments? viskelloggs.com CAL1-800-962-1413 WTE P.O.BoXCAMB (SEHABLAESPMNOU",
+    "rank": {
+      "image": [
+        208,
+        192,
+        123
+      ],
+      "ocr": [
+        170,
+        189,
+        194
+      ],
+      "fusion": [
+        244,
+        189,
+        210
+      ]
+    },
+    "confidence": 0.48531793261510103
+  },
+  {
+    "i": 153,
+    "text": "VALUESIZE Kelloyg's SPECIAL PROTEIN 15g OriginalMulti-Grain Touchof Cinnamon 19oz",
+    "rank": {
+      "image": [
+        177,
+        46,
+        0
+      ],
+      "ocr": [
+        153,
+        151,
+        177
+      ],
+      "fusion": [
+        153,
+        177,
+        152
+      ]
+    },
+    "confidence": 0.5969589700137383
+  },
+  {
+    "i": 182,
+    "text": "NETWT0.81OZ（23g） CEREAL Kellugg's",
+    "rank": {
+      "image": [
+        158,
+        182,
+        223
+      ],
+      "ocr": [
+        216,
+        179,
+        156
+      ],
+      "fusion": [
+        223,
+        101,
+        158
+      ]
+    },
+    "confidence": 0.45678773403730183
+  },
+  {
+    "i": 159,
+    "text": "《lggFrosted Flakes",
+    "rank": {
+      "image": [
+        249,
+        252,
+        283
+      ],
+      "ocr": [
+        170,
+        169,
+        182
+      ],
+      "fusion": [
+        170,
+        169,
+        157
+      ]
+    },
+    "confidence": 0.43932977515696947
+  },
+  {
+    "i": 225,
+    "text": "26 BerCelossalCnnch Fructose NOHigh MaltOMeal Corn Syrup Berry Naturally &Artificially Flavored Cojossal RESEALABLE Crunch loveitorit'sFREE! SCE RPTEOUANY EADHOEINLR CEREAL NETWT26OZ(1LB10OZ)737g",
+    "rank": {
+      "image": [
+        223,
+        220,
+        231
+      ],
+      "ocr": [
+        170,
+        149,
+        147
+      ],
+      "fusion": [
+        149,
+        119,
+        115
+      ]
+    },
+    "confidence": 0.5644954065523985
+  },
+  {
+    "i": 172,
+    "text": "NowwithMORE Real Kelloyg's Strawberries! Special Red Berries 110 CEREAL MTW112020",
+    "rank": {
+      "image": [
+        175,
+        69,
+        176
+      ],
+      "ocr": [
+        151,
+        119,
+        152
+      ],
+      "fusion": [
+        151,
+        152,
+        181
+      ]
+    },
+    "confidence": 0.7442519829568492
+  },
+  {
+    "i": 186,
+    "text": "Bobs Red Mill TeY GLUTEN FREE GLUTEN FREE OATMEAL applepieces and cinnamon",
+    "rank": {
+      "image": [
+        188,
+        186,
+        34
+      ],
+      "ocr": [
+        186,
+        127,
+        183
+      ],
+      "fusion": [
+        186,
+        188,
+        183
+      ]
+    },
+    "confidence": 0.7390312668145305
+  },
+  {
+    "i": 254,
+    "text": "7YZ.UK P.Bx11.L Questooiocomments？ www.asihvshey.com 34000-60017",
+    "rank": {
+      "image": [
+        253,
+        255,
+        299
+      ],
+      "ocr": [
+        238,
+        31,
+        199
+      ],
+      "fusion": [
+        253,
+        255,
+        299
+      ]
+    },
+    "confidence": 0.43485620617866516
+  },
+  {
+    "i": 136,
+    "text": "Nutrition Facts about 13 servings per containen Serving size 1/2cup（40g） Amount por sorving Calories 150 %Dally Value* Total Fat2.5g 3% Saturated Fat0.5g 3% TransFat Og Polyunsaturated Fat1g Monounsaturated Fat1g Cholesterol Omg 0% Sodium Omg 0% Total Carbohydrate 27g 10% DietaryFiber4g 14% Total Sugars Og 0% Protein 5g Vitamin D Omcg 0% Caicium Oma 0%",
+    "rank": {
+      "image": [
+        208,
+        187,
+        188
+      ],
+      "ocr": [
+        250,
+        160,
+        119
+      ],
+      "fusion": [
+        208,
+        210,
+        250
+      ]
+    },
+    "confidence": 0.42871925234794617
+  },
+  {
+    "i": 50,
+    "text": "ExcellentSourceof IRON& since CALCIUM 5681 CREAM WHEAT OF HOTCEREAL 2MINUTE COOK TIME PERSERVING 110 DLORtS sufia D IRON NETWT2807 (1LB1202）794g",
+    "rank": {
+      "image": [
+        59,
+        7,
+        58
+      ],
+      "ocr": [
+        50,
+        51,
+        52
+      ],
+      "fusion": [
+        50,
+        52,
+        51
+      ]
+    },
+    "confidence": 0.7166347464848224
+  },
+  {
+    "i": 211,
+    "text": "urespun Original Uncle Sam ToedWWl ByFFd Original",
+    "rank": {
+      "image": [
+        210,
+        234,
+        238
+      ],
+      "ocr": [
+        211,
+        125,
+        179
+      ],
+      "fusion": [
+        211,
+        125,
+        111
+      ]
+    },
+    "confidence": 0.5825391824362691
+  },
+  {
+    "i": 231,
+    "text": "TOOTIE NETWT300Z(1LB1402）850 FRUITIES MaltOMeal FLAVORED CEREAL",
+    "rank": {
+      "image": [
+        160,
+        168,
+        88
+      ],
+      "ocr": [
+        223,
+        155,
+        231
+      ],
+      "fusion": [
+        223,
+        155,
+        88
+      ]
+    },
+    "confidence": 0.6012920056072287
+  },
+  {
+    "i": 198,
+    "text": "85mg sodium,200mgpotassium,6gtotal contnbutes carbohydrate (6g sugars).and 4g protein Percent Daily Values are based on a 2.000 calorie diet.Yourdaily valuesmay behigher or lowerdependingonyourcalorie needs Calories Total Fat 2.000 Lessthan 2.500 SatFat 65g Lessthan 20g 608 Cholesteroi Lessthan 25g Sodium Lessthan 300mg 300mg Potassium 2.400mg 2.400mg Total Carbohydrate 3.500mg 3.500mg DietaryFicet 300g 25g 375g 30g Caloriespergram: Fat9 Carbohydrate4 Protein4 INGREDIENTS:WHOLEGRAINOATFLOURINCLUDES THEATBRANWHEATTARCHSUGARMODIFID CORNSTARCHATFIBERSALT,ATEXTRACT DICALCIUMPHOSPHATE,TRIPOTASSIUMPHOSPHATE PRESERVEFRESHNESS VITAMINSANDMINERALS:CALCIUMCARBONATE REDUCEDIRONANDZINCOXIDE,SODIUMASCORBATE VTAMINC)NIACINAMIDEVTAMINAPALMITATE PYRIDOXINEHYDROCHLORIDE(VITAMIN B6) RIBOFLAVINVITAMINB2),THIAMINEMONONITRATE VTAMINB1）FOLCACD,VTAMIND,VTAMINB12 CONTAINS:WHEAT.",
+    "rank": {
+      "image": [
+        76,
+        208,
+        93
+      ],
+      "ocr": [
+        2,
+        177,
+        19
+      ],
+      "fusion": [
+        76,
+        148,
+        208
+      ]
+    },
+    "confidence": 0.4104028344154358
+  },
+  {
+    "i": 20,
+    "text": "JO 500g OKA'SACHET IEREMENT CYCLABLES ISL.ENGLAND 1I55 BIO SANS AICUTE\" Muesli 36%FRUITS NOIX&GRAINES",
+    "rank": {
+      "image": [
+        24,
+        12,
+        62
+      ],
+      "ocr": [
+        187,
+        16,
+        20
+      ],
+      "fusion": [
+        16,
+        187,
+        30
+      ]
+    },
+    "confidence": 0.6094980556595264
+  },
+  {
+    "i": 77,
+    "text": "600048363",
+    "rank": {
+      "image": [
+        261,
+        33,
+        185
+      ],
+      "ocr": [
+        238,
+        31,
+        199
+      ],
+      "fusion": [
+        261,
+        33,
+        185
+      ]
+    },
+    "confidence": 0.37885573506355286
+  },
+  {
+    "i": 194,
+    "text": "FIBER 100% VEGAN THOLEGRAINCAN H·E-B OLD FASHIONED OATS ROLLEDOATS NETWL.420 (2181002]19g",
+    "rank": {
+      "image": [
+        135,
+        274,
+        34
+      ],
+      "ocr": [
+        194,
+        48,
+        140
+      ],
+      "fusion": [
+        48,
+        136,
+        140
+      ]
+    },
+    "confidence": 0.6758532599853079
+  },
+  {
+    "i": 39,
+    "text": "AiCHA PATE ATARTINER Noisettesetcacx mnitBon EAAICHA",
+    "rank": {
+      "image": [
+        283,
+        299,
+        15
+      ],
+      "ocr": [
+        282,
+        43,
+        35
+      ],
+      "fusion": [
+        282,
+        35,
+        283
+      ]
+    },
+    "confidence": 0.5484138954977635
+  },
+  {
+    "i": 42,
+    "text": "Nestle dessert NSOILE Cacag noisettes",
+    "rank": {
+      "image": [
+        135,
+        279,
+        252
+      ],
+      "ocr": [
+        4,
+        22,
+        257
+      ],
+      "fusion": [
+        32,
+        262,
+        15
+      ]
+    },
+    "confidence": 0.47932263454464047
+  },
+  {
+    "i": 96,
+    "text": "Nutrition Facts Serving Size 3/4Cup（32g） ServingsPer Container About 10 Amount Per Serving Calories 120 Caloriesfrom Fat15 %Daily Yalue' TotalFat1.5g 2% Saturated Fat Og 0% TransFatOg Polyunsaturated Fat 0.5g Monounsaturated Fat 0.5g Cholesterol Omg 0% Sodlum 75mg 3% Potassium9Omg 3% Total Carbohydrate26g 9% Dietary Fiber4g 15% Souble Fiberlesshanto Insoluble Fiber3g Sugars5g Protein3g VtaminA.0% VtaminC0% %0wnoRo lon4% FrDyVe d o2.00 coe BONPANANG dependng o your csonit needs TosFe COTe 2,000 g 2.500 SaFe 20g 80g Ohdnters LotThat 300mg 25g Sodun Potinsun LesTan 2.400mg 2.400mg TataiCatotydrat 3004 3.500mg DiearyFbe 25g 175g 30g C",
+    "rank": {
+      "image": [
+        208,
+        178,
+        76
+      ],
+      "ocr": [
+        290,
+        2,
+        19
+      ],
+      "fusion": [
+        290,
+        208,
+        178
+      ]
+    },
+    "confidence": 0.3605722174957579
+  },
+  {
+    "i": 83,
+    "text": "NLtrltlonFacts Valeurnutritive Kashi osur Fe/LoEg Satvd/TE Seven Grain with Quinoa Septcereales e/CDg /m /S5m100 avecquinoa /om29 m/Pun 3% 9% Fon/Fe53g 12% Ryd/F Sugs/Sg Poc40 HCVneC nA/VneA oonitaon oeifer OGM PowiPhosptore D/Tne MEHE Honey Oat Flax Miel,avoine et in 40g 2CRUNCHYBARS 2BARRESCROGUANTES 1862710258 8",
+    "rank": {
+      "image": [
+        148,
+        76,
+        29
+      ],
+      "ocr": [
+        95,
+        199,
+        93
+      ],
+      "fusion": [
+        95,
+        199,
+        93
+      ]
+    },
+    "confidence": 0.54006387340613
+  },
+  {
+    "i": 240,
+    "text": "MNjA life QUAKER WHGLS GSAIN CRREAL original",
+    "rank": {
+      "image": [
+        47,
+        139,
+        25
+      ],
+      "ocr": [
+        116,
+        112,
+        111
+      ],
+      "fusion": [
+        112,
+        111,
+        241
+      ]
+    },
+    "confidence": 0.5711336525848671
+  },
+  {
+    "i": 297,
+    "text": "FORMAT 8400 nutella",
+    "rank": {
+      "image": [
+        299,
+        270,
+        283
+      ],
+      "ocr": [
+        293,
+        285,
+        292
+      ],
+      "fusion": [
+        293,
+        270,
+        299
+      ]
+    },
+    "confidence": 0.5676623791685662
+  },
+  {
+    "i": 222,
+    "text": "FatFite Evkhed SeCvnfiee Farina CreamyHotWheatCereal LORIGINAL Cooksim 2 Minukes",
+    "rank": {
+      "image": [
+        67,
+        128,
+        238
+      ],
+      "ocr": [
+        221,
+        238,
+        31
+      ],
+      "fusion": [
+        221,
+        67,
+        128
+      ]
+    },
+    "confidence": 0.42392443949570824
+  },
+  {
+    "i": 228,
+    "text": "MOM'S Old Fashioned BEST. Oats cereals 100%olegin Heart",
+    "rank": {
+      "image": [
+        215,
+        34,
+        140
+      ],
+      "ocr": [
+        215,
+        194,
+        227
+      ],
+      "fusion": [
+        215,
+        227,
+        48
+      ]
+    },
+    "confidence": 0.8212665036576866
+  },
+  {
+    "i": 197,
+    "text": "Nutrition Facts COOKING about30 servingspercontainer Serving size 1/2cup（40g） Calories 150 %Daly Vale Total Fat2.5g 3% Sahurated Fat 0.5g 3% Sa.Cotod Trans FatOg Cholesterol Omg Sodlum Omg 0% 0% Total Carbohydrate 27g Dietary Fiber 4g 10% Total Sugars Og 14% Inclades Og Added Sugars Protein5g 0% Vtamin D Omcg alclumOmg 0% ron1.6mg 0% Petssum150mg 8% 4% GATS SCAOUGHME04074 POUCT GFCANADA USA enond.oom",
+    "rank": {
+      "image": [
+        208,
+        187,
+        244
+      ],
+      "ocr": [
+        250,
+        160,
+        246
+      ],
+      "fusion": [
+        208,
+        250,
+        160
+      ]
+    },
+    "confidence": 0.46251317858695984
+  },
+  {
+    "i": 174,
+    "text": "Kellugg's COCOA KRISPIES",
+    "rank": {
+      "image": [
+        159,
+        113,
+        28
+      ],
+      "ocr": [
+        158,
+        252,
+        162
+      ],
+      "fusion": [
+        158,
+        37,
+        159
+      ]
+    },
+    "confidence": 0.513078439246786
+  },
+  {
+    "i": 126,
+    "text": "Servings Per Containe Amount PerServing NGREDEO %Dally Vale CRANBEC BARLELIO Total Fat8g 12% SIEEBER SIEETRES SaturatedFat1g 5% BROUNSUGAR IANSO TransFat Og SUGARRUCIE SULERR2E CholesterolOmg 0% ROL Sodium270mg 11% CONTANSE Total Carbohydrate53g 18% DISTRIBUTE TREQUAKE DietaryFiber5g 21% IL60604-9008SA P.O.BOX Sugars22g Protein6g QUAAER",
+    "rank": {
+      "image": [
+        208,
+        76,
+        188
+      ],
+      "ocr": [
+        63,
+        210,
+        65
+      ],
+      "fusion": [
+        210,
+        208,
+        65
+      ]
+    },
+    "confidence": 0.4735533703688066
+  },
+  {
+    "i": 165,
+    "text": "Vitamins and Minerals:lron（ferricphosphate）,vitaminC ascorbic acid),vitamin Eacetate,niacinamide,vitaminA palmitate,vitaminBe（pyridoxine hydrochloride）,vitamin B（thiamin hydrochloride),vitamin B2（riboflavin）,folic Ingredients:Rice,sugar,contains2%orlessof salt acid,vitamin B12,vitaminD3. maltflavor.",
+    "rank": {
+      "image": [
+        148,
+        208,
+        178
+      ],
+      "ocr": [
+        158,
+        207,
+        149
+      ],
+      "fusion": [
+        233,
+        162,
+        148
+      ]
+    },
+    "confidence": 0.38689637034369173
+  },
+  {
+    "i": 106,
+    "text": "100% FIBER R NO BDLIEICI NO QUAKER -EST1877- INSTANTOATMEAL- MAPLE&BROWNSUGAR FLANORWITHOTHERNATURALFLAVORS 09 HEALTHY HEART 10.1510Z/43PACKEISNETWT5102/（43",
+    "rank": {
+      "image": [
+        128,
+        122,
+        238
+      ],
+      "ocr": [
+        180,
+        122,
+        207
+      ],
+      "fusion": [
+        128,
+        122,
+        180
+      ]
+    },
+    "confidence": 0.6207341143195726
+  },
+  {
+    "i": 289,
+    "text": "nutella TERRERO",
+    "rank": {
+      "image": [
+        299,
+        283,
+        31
+      ],
+      "ocr": [
+        293,
+        285,
+        292
+      ],
+      "fusion": [
+        293,
+        299,
+        31
+      ]
+    },
+    "confidence": 0.6698869675627313
+  },
+  {
+    "i": 55,
+    "text": "GIANTSIZE Tucky FROSTEDTOASTED OATCEREALWITH MARSHMALLOWS Charms Now With MAGICAL UNICORN MARSHMAJLOWS gtuten N79002（26102）（730）",
+    "rank": {
+      "image": [
+        59,
+        58,
+        67
+      ],
+      "ocr": [
+        58,
+        60,
+        77
+      ],
+      "fusion": [
+        58,
+        59,
+        77
+      ]
+    },
+    "confidence": 0.7231367886066437
+  },
+  {
+    "i": 44,
+    "text": "NOUV Bonne Maman patea tartiner Cacahuetes et Cacaa",
+    "rank": {
+      "image": [
+        34,
+        274,
+        32
+      ],
+      "ocr": [
+        32,
+        282,
+        43
+      ],
+      "fusion": [
+        32,
+        282,
+        283
+      ]
+    },
+    "confidence": 0.6976150703713249
+  },
+  {
+    "i": 154,
+    "text": "Nelloyg's SPECIAL ENTTAN Red Berries yrFln 90M47",
+    "rank": {
+      "image": [
+        172,
+        152,
+        247
+      ],
+      "ocr": [
+        151,
+        119,
+        130
+      ],
+      "fusion": [
+        151,
+        152,
+        119
+      ]
+    },
+    "confidence": 0.8220687077340709
+  },
+  {
+    "i": 64,
+    "text": "SatFat Less than Less than 20g Cholesterol 300mg 259 Sodum Less than 2.400mg 300mg Potassium 3.500mg 2,400mg Total Carbohydrate 300g 3.500mg Dietary Fiber 25g 375g 30g Ingredients:Whole Grain Oats,Sugar, Oat Bran,Com Starch,Honey,Brown Phosphate,Canola OilNatural Almond Sugar Syrup,Salt,Tripotassium Flavor.Vitamin E（mixed tocopherols） Added toPreserve Freshness. Vitamins and Minerals:Calcium Carbonate,Zinc and Iron(mineral nutrients),Vitamin C（sodium ascorbate) ABVitamin （niacinamide）,Vitamin B (pyridoxine hydrochloride),Vitamin B ibolavin),Vitamin B,（thiamin mononitrate),VitaminA（palmitate) ABVitamin （folic acid),Vitamin Ba Vitamin D. CONTAINSALMOND INGREDIENTS DISTRIBUTEDBYGENERALMILLSSALES,INC MINNEAP0LIS,MNS5440 USA GLUTENFREE OGeneral Mils Patent:generalmits.com/pat Exchange:1%Starch Based on AcademyofNstrition and Dieteties and Amesc DlbetesAsseciatioe critena Tspytbyeo ud ot popergheen oghsoe settg fc teland hanciog F3727921700SSG3966560700 B PartiallyProduced with Genetic Engineering",
+    "rank": {
+      "image": [
+        208,
+        178,
+        76
+      ],
+      "ocr": [
+        235,
+        207,
+        196
+      ],
+      "fusion": [
+        244,
+        235,
+        208
+      ]
+    },
+    "confidence": 0.4894882369005289
+  },
+  {
+    "i": 232,
+    "text": "OldWessexLId: YOURFAVORITE HOT CEREALISNOW WOODSTOCK +IT'ScOOD! NON-GMO IRISH-STYLE OATMEAL QUITE",
+    "rank": {
+      "image": [
+        121,
+        123,
+        239
+      ],
+      "ocr": [
+        125,
+        185,
+        192
+      ],
+      "fusion": [
+        125,
+        51,
+        121
+      ]
+    },
+    "confidence": 0.5065988691274604
+  },
+  {
+    "i": 259,
+    "text": "pour1c.asoupe.（19g)/Per1 tbsp（19 NutritionFacts Valeurnutritive OOORGIINTEZVH",
+    "rank": {
+      "image": [
+        264,
+        200,
+        266
+      ],
+      "ocr": [
+        153,
+        238,
+        31
+      ],
+      "fusion": [
+        153,
+        264,
+        200
+      ]
+    },
+    "confidence": 0.38783530640704733
+  },
+  {
+    "i": 74,
+    "text": "ucky Charms TOL(230Z652CARTONSCAUAS PESO1210218140246027013 ClutenFree sholuten",
+    "rank": {
+      "image": [
+        67,
+        115,
+        119
+      ],
+      "ocr": [
+        58,
+        59,
+        67
+      ],
+      "fusion": [
+        58,
+        59,
+        67
+      ]
+    },
+    "confidence": 0.6665388107299804
+  },
+  {
+    "i": 57,
+    "text": "WHOLEGRAIN ISALMAYSTHE AS IMGREDIENT Reese's SWEET&CRUNCHY CORNPUFFS Puffs REAL MADEWITH REESE'S PEANUTBUTTER TWT-11.50Z（326g)",
+    "rank": {
+      "image": [
+        179,
+        78,
+        27
+      ],
+      "ocr": [
+        61,
+        67,
+        63
+      ],
+      "fusion": [
+        61,
+        67,
+        63
+      ]
+    },
+    "confidence": 0.7162460108430477
+  },
+  {
+    "i": 184,
+    "text": "Ingredients:WholeGrainOatFlour,WholeWheatFlour BrownSugarSugarMalodextrinMaltedBarleyExtrat Molasses,Salt,Raising Agent(Sodium Bicarbonate/ E500（i),Antioxidant（ (Tocopherols Concentrate,Mixed (VitaminE)/E307b),Natural Flavor,Reduced lron,Folic Acid.Contains stabilizer aspermitted food conditioner, permitted antioxidant andflavouringsubstance.",
+    "rank": {
+      "image": [
+        76,
+        148,
+        54
+      ],
+      "ocr": [
+        146,
+        189,
+        135
+      ],
+      "fusion": [
+        94,
+        76,
+        148
+      ]
+    },
+    "confidence": 0.31168067114148856
+  },
+  {
+    "i": 251,
+    "text": "ETWT77OZ(220g) 10980080220",
+    "rank": {
+      "image": [
+        261,
+        194,
+        33
+      ],
+      "ocr": [
+        238,
+        31,
+        199
+      ],
+      "fusion": [
+        261,
+        194,
+        33
+      ]
+    },
+    "confidence": 0.4123375415802002
+  },
+  {
+    "i": 190,
+    "text": "Paqet refermable Resealable Pacags Tear Here To Open An Employee-Owned Company uunomodoradnoo compagnie appartenant aux mplos Bobs Red Mill Wholesomry Yours' Q20 MUESLI VBOLESOME CUMLET KETATE 510g",
+    "rank": {
+      "image": [
+        62,
+        187,
+        123
+      ],
+      "ocr": [
+        187,
+        151,
+        183
+      ],
+      "fusion": [
+        187,
+        188,
+        183
+      ]
+    },
+    "confidence": 0.6348267198811376
+  },
+  {
+    "i": 171,
+    "text": "FROST FLAKES TONY THETIOER' 110",
+    "rank": {
+      "image": [
+        208,
+        86,
+        178
+      ],
+      "ocr": [
+        170,
+        169,
+        182
+      ],
+      "fusion": [
+        169,
+        180,
+        159
+      ]
+    },
+    "confidence": 0.49358362718005755
   },
   {
     "i": 6,
@@ -226,19 +4538,85 @@
       "image": [
         12,
         3,
-        9
+        24
       ],
       "ocr": [
-        3,
-        10,
-        5
+        7,
+        16,
+        30
       ],
       "fusion": [
-        3,
-        10,
-        12
+        16,
+        7,
+        30
       ]
     },
-    "confidence": 0.5403469886356767
+    "confidence": 0.6084160227405964
+  },
+  {
+    "i": 203,
+    "text": "VitaminDOmc Calcium Omg 0% lron1.6mg 0% Potassium150mg 8% 4% INGREDIENTS:WHOLE GRAIN ROLLED OATS. DISTRIBUTED BY PUBLIXSUPER MARKETS,INC, LAKELAND,FL33802 publix.com PRODUCT OFCANADA,USA PUBLIXGUARANTEE: COMPLETE SATISFACTION ORYOUR MONEYBACK SCAN HERE FOR MORE INFORMATION",
+    "rank": {
+      "image": [
+        244,
+        208,
+        187
+      ],
+      "ocr": [
+        208,
+        244,
+        196
+      ],
+      "fusion": [
+        208,
+        244,
+        204
+      ]
+    },
+    "confidence": 0.5991211537926169
+  },
+  {
+    "i": 212,
+    "text": "10g Fiber perserving UncleSam Since1908 ToastedWhole WhetBerry FlakesGFlaxeed Original Wheat 9gProtein Berry Flakes Only4Ingredients Les than Ig Sugo Omeg-3Fatty Add FIONFUARSRED",
+    "rank": {
+      "image": [
+        239,
+        207,
+        120
+      ],
+      "ocr": [
+        211,
+        170,
+        169
+      ],
+      "fusion": [
+        211,
+        50,
+        169
+      ]
+    },
+    "confidence": 0.6155076622820683
+  },
+  {
+    "i": 284,
+    "text": "www.nutellastories.con ACONSOMMERDEPRE 1000g [SOJAI,VANILLINE. NEPASMETTREAUFROID",
+    "rank": {
+      "image": [
+        208,
+        178,
+        148
+      ],
+      "ocr": [
+        33,
+        238,
+        31
+      ],
+      "fusion": [
+        208,
+        178,
+        148
+      ]
+    },
+    "confidence": 0.40711328387260437
   }
 ]

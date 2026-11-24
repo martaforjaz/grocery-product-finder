@@ -2,23 +2,27 @@
 
 [Try the live upload and recorded cases](https://martaforjaz.github.io/grocery-finder/).
 
-Find the exact variant of an item when the front of its package is the only clue. The demo ranks catalog candidates from image features, text read from the package, and their combination. Live uploads run in the browser and present candidates for barcode verification.
+A photo of a cereal box can be enough to tell you the brand, yet leave you guessing between two nearly identical variants. That matters when adding an item to a catalog. Its size or recipe might differ even though the boxes look alike, and the barcode may be on a side you cannot see.
+
+I built Grocery Product Finder to see whether reading the packaging could help visual search identify the right variant. It compares image similarity with OCR and their combined ranking. Details like a product name or pack size can help separate similar candidates. When the evidence is weak, the demo asks for a clearer photo or the barcode. If the barcode is already visible, you can open the corresponding Open Food Facts record directly from the demo.
 
 ![Image, OCR and fusion retrieval results](site/benchmark.png)
 
-## Pilot results
+## Evaluation
 
 | Method | Top 1 | Top 3 |
 | --- | ---: | ---: |
-| MobileNetV3 image similarity | 5/9 | 8/9 |
-| RapidOCR + catalog token matching | 8/9 | 9/9 |
-| Image + OCR | 9/9 | 9/9 |
+| MobileNetV3 image similarity | 37/180 | 52/180 |
+| RapidOCR + catalog token matching | 51/180 | 85/180 |
+| Image + OCR | 62/180 | 96/180 |
 
-In the muesli example, image similarity ranks Country Crisp first. Recognized packaging text moves the exact Special Muesli variant to first place in the combined ranking. The demo also shows a query for a barcode outside the catalog.
+![The same packaging photo and the top match for each retrieval mode](figures/decision.png)
 
-The pilot uses **16 Open Food Facts products** (14 cereals, two chocolate spreads) with two distinct uploads per barcode. The search catalog contains 12 products. An independent query photo was reserved for each product, with five queries used to calibrate the decision threshold. The final test contains nine known and two absent-product queries. Ten product pairs use an alternate image explicitly tagged as front packaging; other query uploads may show a different side. Identical processed image pairs and pairs with matching upload timestamps are excluded. This small convenience sample is suitable for demonstrating the approach and its failure modes.
+The recorded example queries **Véritable pâte à tartiner noisettes chocolat noir**. Image ranking put **Pâte à tartiner aux noisettes et au cacao** first, and fusion put **Véritable pâte à tartiner noisettes chocolat noir** first. Each result card exposes the variant and its barcode. The demo also includes an absent-product query.
 
-On the 11 test queries, the threshold accepted two, both correct. It rejected or deferred the other nine, including both absent products. This is a conservative exploratory threshold, without evidence of generalization beyond these queries. [Raw metrics](metrics.json) · [Test rankings and OCR](predictions.json)
+The snapshot contains **300 products** (232 cereals and 68 chocolate spreads) with distinct source uploads per barcode. There are 240 products in the gallery. 90 queries were reserved for calibration, and the final test contains 180 known and 30 absent-product queries. 79 pairs use a second upload explicitly tagged as a front photo. Other query photos may show a different side of the package. Identical processed images and pairs with matching upload timestamps were excluded.
+
+The threshold accepted **2/210** test queries. Of these, **2 were incorrect**, including **0 products absent from the gallery**. Accepted counts measure coverage and incorrect accepts measure the risk of applying the threshold. This fixed snapshot represents only these categories and the source images selected by the ingestion policy. [Raw metrics](metrics.json) · [Test rankings and OCR](predictions.json)
 
 ## Method and reproduction
 
@@ -34,7 +38,7 @@ python evaluate.py
 python -m http.server 8776 --directory site
 ```
 
-Open http://127.0.0.1:8776. The published benchmark images are included, so evaluation requires no catalog download. For a fresh sample, run python ingest.py to fetch the two Open Food Facts category searches and download new image pairs. Open Food Facts changes over time; the committed snapshot reproduces the reported experiment.
+Open http://127.0.0.1:8776. The published benchmark images are included, so evaluation requires no catalog download. To refresh from the same source, run `python parquet_candidates.py` and `python ingest.py --parquet --target 300`. This uses the official Open Food Facts Parquet mirror and image archive. Run `python render_decision.py` after evaluation to regenerate the comparison figure. Open Food Facts changes over time; the committed snapshot reproduces the reported experiment.
 
 ## Attribution
 
