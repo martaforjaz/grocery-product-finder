@@ -45,3 +45,7 @@ Open http://127.0.0.1:8776. The published benchmark images are included, so eval
 Product database records come from [Open Food Facts](https://world.openfoodfacts.org/) under ODbL and the Database Contents License. Photos are attributed per image in the demo and in the manifest. The resized and EXIF-oriented images retain the [CC BY-SA 3.0 licence](https://creativecommons.org/licenses/by-sa/3.0/). See the [Open Food Facts reuse documentation](https://openfoodfacts.github.io/documentation/docs/Product-Opener/api/tutorials/license-be-on-the-legal-side/). The visual encoder is exported from [Torchvision MobileNetV3-Small](https://docs.pytorch.org/vision/stable/models/generated/torchvision.models.mobilenet_v3_small.html).
 
 The evaluation figure follows the typography and axis conventions in [figures4papers](https://github.com/ChenLiu-1996/figures4papers).
+
+## Batch catalog review
+
+Add up to 30 photographs, select a file to run the three rankings, and enter the verified barcode. Export the confirmed rows as CSV. The application keeps the review session in the current browser tab. The benchmark evaluates retrieval accuracy; reviewer time savings have yet to be measured.
