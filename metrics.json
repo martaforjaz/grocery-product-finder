@@ -1,0 +1,24 @@
+{
+  "catalog": 12,
+  "known": 9,
+  "unknown": 2,
+  "calibration": 5,
+  "metrics": {
+    "image": {
+      "top1": 5,
+      "top3": 8
+    },
+    "ocr": {
+      "top1": 8,
+      "top3": 9
+    },
+    "fusion": {
+      "top1": 9,
+      "top3": 9
+    }
+  },
+  "threshold": 0.7286207174161471,
+  "accepted": 2,
+  "incorrect_accepts": 0,
+  "unknown_accepts": 0
+}

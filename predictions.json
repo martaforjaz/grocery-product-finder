@@ -1,0 +1,244 @@
+[
+  {
+    "i": 15,
+    "text": "",
+    "rank": {
+      "image": [
+        15,
+        14,
+        2
+      ],
+      "ocr": [
+        12,
+        15,
+        8
+      ],
+      "fusion": [
+        15,
+        14,
+        2
+      ]
+    },
+    "confidence": 0.4211316704750061
+  },
+  {
+    "i": 8,
+    "text": "100% Weetabix",
+    "rank": {
+      "image": [
+        8,
+        10,
+        11
+      ],
+      "ocr": [
+        8,
+        12,
+        15
+      ],
+      "fusion": [
+        8,
+        10,
+        11
+      ]
+    },
+    "confidence": 0.5545329332351685
+  },
+  {
+    "i": 10,
+    "text": "NATURE VALLEY Protein PEANUT&CHOCOLATE 10G CACAHUETES&CHOCOLAT PROTEINES DE 4BARS 4x0",
+    "rank": {
+      "image": [
+        10,
+        0,
+        5
+      ],
+      "ocr": [
+        10,
+        12,
+        0
+      ],
+      "fusion": [
+        10,
+        12,
+        0
+      ]
+    },
+    "confidence": 0.7681560175588535
+  },
+  {
+    "i": 5,
+    "text": "ESTENGLAND 1855 Muesli SPECIAL SANS CONSERVUIER SIKREAMON 30 CCICRANT % FRUITS &NOIX NUTRI-SCORE 750g:",
+    "rank": {
+      "image": [
+        9,
+        5,
+        0
+      ],
+      "ocr": [
+        5,
+        9,
+        3
+      ],
+      "fusion": [
+        5,
+        9,
+        3
+      ]
+    },
+    "confidence": 0.5855572476091196
+  },
+  {
+    "i": 11,
+    "text": "Kelloy CORN FLAKES 500g",
+    "rank": {
+      "image": [
+        9,
+        11,
+        4
+      ],
+      "ocr": [
+        11,
+        12,
+        15
+      ],
+      "fusion": [
+        11,
+        9,
+        4
+      ]
+    },
+    "confidence": 0.5633061735516913
+  },
+  {
+    "i": 3,
+    "text": "REMENT BjORG MUESLI SANSSUCRESAJOUTES RAISIN,FIOUE,DATTE,ABRICOT CEREALESCOMPLETES RICHE ENFIBRES BIO AB sCORT A 375g",
+    "rank": {
+      "image": [
+        2,
+        5,
+        3
+      ],
+      "ocr": [
+        3,
+        2,
+        12
+      ],
+      "fusion": [
+        3,
+        2,
+        12
+      ]
+    },
+    "confidence": 0.7268714961280962
+  },
+  {
+    "i": 0,
+    "text": "NUTRI-SCORE Cruesli MELANGEDE NOIX NECOHPLETE QUAKER. BICHEENFISRES SANS 450ge",
+    "rank": {
+      "image": [
+        0,
+        4,
+        10
+      ],
+      "ocr": [
+        0,
+        9,
+        5
+      ],
+      "fusion": [
+        0,
+        9,
+        5
+      ]
+    },
+    "confidence": 0.6650526050336483
+  },
+  {
+    "i": 4,
+    "text": "NOUVEAUF0RMAT375G Nestle. CHOCAPIC FABRIQWEEN FRANCE BLE100%FRANCAIS CACAO APPROVISIONNE PLUSDURABLEMENT",
+    "rank": {
+      "image": [
+        4,
+        9,
+        10
+      ],
+      "ocr": [
+        4,
+        14,
+        15
+      ],
+      "fusion": [
+        4,
+        9,
+        10
+      ]
+    },
+    "confidence": 0.797186175475458
+  },
+  {
+    "i": 9,
+    "text": "COUNTRY CRiSP SANS MML AIOUtt CIREALISCOMITSA 4NOIX NOIX DU BRESIL AMANDES NOIX DEPECAN NOISETTES",
+    "rank": {
+      "image": [
+        0,
+        8,
+        12
+      ],
+      "ocr": [
+        9,
+        0,
+        15
+      ],
+      "fusion": [
+        9,
+        0,
+        5
+      ]
+    },
+    "confidence": 0.6506023450093216
+  },
+  {
+    "i": 13,
+    "text": "Cruesli CHOCOLAT NOIR- 15022513452557 MAXIFORMAT900g QUAKER. Cruesli ·CHOCOLATNOIR· BHVONK COMOLAETE ECHEDHTISRES SANS AADEAEROE MALNNM CPDAARE 900ge",
+    "rank": {
+      "image": [
+        0,
+        11,
+        12
+      ],
+      "ocr": [
+        0,
+        12,
+        15
+      ],
+      "fusion": [
+        0,
+        12,
+        11
+      ]
+    },
+    "confidence": 0.6171648708714998
+  },
+  {
+    "i": 6,
+    "text": "ENTEREMEN RECYCLABL BiORG MUESLI SUPERFRUITS RAISIDATTE,CASSIS,CRANBERRY,MYRTI SANSSUCRES AJOUTES CEREALES COMPLETES BIO AB SCORE HINTIOONS 375g Boostatrt ASRICULTUAE Su=CCyMy CUMAC",
+    "rank": {
+      "image": [
+        12,
+        3,
+        9
+      ],
+      "ocr": [
+        3,
+        10,
+        5
+      ],
+      "fusion": [
+        3,
+        10,
+        12
+      ]
+    },
+    "confidence": 0.5403469886356767
+  }
+]

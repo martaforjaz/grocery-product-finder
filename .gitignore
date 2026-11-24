@@ -1,0 +1,7 @@
+cache/
+__pycache__/
+.venv/
+cereals.json
+spreads.json
+sample.json
+splits.json

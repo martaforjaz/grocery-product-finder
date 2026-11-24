@@ -1,0 +1,6 @@
+numpy
+onnxruntime
+Pillow
+matplotlib
+requests
+rapidocr-onnxruntime==1.4.4
