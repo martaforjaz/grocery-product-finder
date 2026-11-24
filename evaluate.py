@@ -98,16 +98,33 @@ def main():
     (SITE/"results.json").write_text(json.dumps(output,ensure_ascii=False),encoding="utf8")
     (ROOT/"metrics.json").write_text(json.dumps(report,indent=2)+"\n")
     (ROOT/"predictions.json").write_text(json.dumps(test,indent=2,ensure_ascii=False),encoding="utf8")
-    fig, ax = plt.subplots(figsize=(6.2,3.4),layout="constrained")
-    positions = np.arange(3)
-    for shift,metric,color in [(-.17,"top1","#244e79"),(.17,"top3","#489487")]:
-        bars=ax.bar(positions+shift,[metrics[mode][metric] for mode in metrics],width=.32,label=metric.upper(),color=color)
-        ax.bar_label(bars)
-    ax.set(xticks=positions,xticklabels=["Image","OCR","Image + OCR"],ylabel=f"Correct queries (n={len(known)})",
-           ylim=(0,len(known)*1.2))
-    ax.spines[["right","top"]].set_visible(False)
-    ax.legend(frameon=False)
-    fig.savefig(SITE/"benchmark.png",dpi=180)
+    # Minimal axes and restrained categorical colors follow figures4papers.
+    fig, ax = plt.subplots(figsize=(6.4, 2.75), layout="constrained")
+    labels = ["Image", "OCR", "Image + OCR"]
+    y = np.arange(len(labels))
+    top1 = [100 * row["top1"] / len(known) for row in metrics.values()]
+    top3 = [100 * row["top3"] / len(known) for row in metrics.values()]
+    ax.hlines(y, top1, top3, color="#b7c8d6", linewidth=2)
+    for values, label, color, marker, offset in [
+        (top1, "Top 1", "#244e79", "o", -10),
+        (top3, "Top 3", "#287868", "D", 9),
+    ]:
+        ax.scatter(values, y, label=label, color=color, marker=marker, s=38, zorder=3)
+        for x, row in zip(values, y):
+            ax.annotate(f"{x:.1f}%", (x, row), xytext=(0, offset),
+                        textcoords="offset points", ha="center",
+                        va="top" if offset < 0 else "bottom", color=color, fontsize=9)
+    ax.set(yticks=y, yticklabels=labels, ylim=(2.46, -.46), xlim=(0, 100),
+           xlabel=f"Queries with the correct product (%) | n = {len(known)}")
+    ax.set_xticks([0, 25, 50, 75, 100])
+    ax.set_axisbelow(True)
+    ax.grid(axis="x", color="#e2e9ef", linewidth=.7)
+    ax.spines[["left", "right", "top"]].set_visible(False)
+    ax.spines["bottom"].set_color("#899fb1")
+    ax.tick_params(axis="y", length=0)
+    ax.legend(frameon=False, loc="lower right")
+    fig.savefig(SITE / "benchmark.png", dpi=220)
+    plt.close(fig)
     print(json.dumps(report))
     print("Examples",[(rows[p["i"]]["name"],[rows[p["rank"][m][0]]["name"] for m in metrics]) for p in examples])
 
